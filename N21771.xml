@@ -106,8 +106,9 @@
    <text xml:lang="eng">
       <front>
          <div type="title_page">
-            <pb facs="tcp:028656_0000_0FDA3DC51A0C1740"/>
-            <pb facs="tcp:028656_0001_0FDA3CF85B0FB048" rendition="simple:additions"/>
+            <pb facs="unknown:028656_0000_0FDA3DC51A0C1740"/>
+            <pb facs="unknown:028656_0001_0FDA3CF85B0FB048"
+                rendition="simple:additions"/>
             <p>
                <hi>Feaſt of Merriment.</hi>
             </p>
@@ -122,14 +123,15 @@
             </p>
          </div>
          <div type="to_the_reader">
-            <pb facs="tcp:028656_0002_0FDA3D2CA91B3D38" rendition="simple:additions"/>
-            <pb facs="tcp:028656_0003_0FDA3CFB58C3A538"/>
+            <pb facs="unknown:028656_0002_0FDA3D2CA91B3D38"
+                rendition="simple:additions"/>
+            <pb facs="unknown:028656_0003_0FDA3CFB58C3A538"/>
             <head>TO THE READER.</head>
             <p>SAGE old Solomon very wiſely re<g ref="char:EOLhyphen"/>marked that there is <hi>a time for all things;</hi> and notwithſtanding his au<g ref="char:EOLhyphen"/>thority many will admit there ſhould be a time for <hi>merriment.</hi> In this va<g ref="char:EOLhyphen"/>luable book, which is the very <hi>eſſence</hi> and <hi>quinteſſence</hi> of all mirth and jovi<g ref="char:EOLhyphen"/>ality, you will find much genuine wit, but nothing that can have a prejudicial influence upon your mind. It mat<g ref="char:EOLhyphen"/>ters little who you are, whether old or young, ſnarling or good-natured, pretty or ugly, crooked or ſtraight, dimple-chined or copper-noſed, a tin<g ref="char:EOLhyphen"/>ker or a nabob; whoever you are it will moſt aſſuredly excite your laugh<g ref="char:EOLhyphen"/>ter. For if your lips are even made of foal-leather, if your eyes flaſh the vengeance of Diogenes who lived in a tub, yet the paroxiſms of giggling will ſeize you as unawares as a bum-bai<g ref="char:EOLhyphen"/>liff; and if your ribs are not made out
-<pb n="iv" facs="tcp:028656_0004_0FDA3D2FD5088198"/>of crow-bars you muſt certainly put them a little in motion.</p>
+<pb n="iv" facs="unknown:028656_0004_0FDA3D2FD5088198"/>of crow-bars you muſt certainly put them a little in motion.</p>
             <p>Why ſhould you be reſolved to be hipp'd or in the dumps? Why ſhould you proclaim war againſt yourſelf and tear your wig or gouge out your eyes in a fit of deſperation, leaſt you ſhould freeze or ſtarve to death in this world? If you are in ſuch a mopiſh habit you will here find a moſt powerful anti<g ref="char:EOLhyphen"/>dote to chaſe away the fumes of me<g ref="char:EOLhyphen"/>lancholy. Then, if you are ſad do not ſuffer misfortune to thruſt her pitchforks of deſpair into you, for, as the ſong ſays, as light heart and a thin pair of breeches will carry us through the world, brave boys.</p>
             <p>As for the languiſhing nymph, who is up to her eye brows in love, and the deep ſighing ſwain whoſe heart is as full of holes as a riddle, they ought (for humanity's ſake) to be prevented from ſlabbering and ſnivelling at their hard fate. Not an hundred apothe<g ref="char:EOLhyphen"/>caries ſhops, not a regiment of phy<g ref="char:EOLhyphen"/>ſicians,
-<pb n="v" facs="tcp:028656_0005_0FDA3CFA3756EA78"/>incluſive of quack doctors in abundance, will do them half the ſer<g ref="char:EOLhyphen"/>vice that can be effected by a peruſal of this book. If they ſhould chance to be a little ſqueamiſh at the ſtomach, it will prove an excellent remedy for the ſpleen, or the belly-ach of deſpair. In a word, the Editor has written and compiled it for the benefit of thoſe who may be diſpoſed to dance and ſing; to add glee to the ſhort pittance of life, to improve the ſocial virtues; to heighten the charms of the big-bel<g ref="char:EOLhyphen"/>lied decanter, and to frighten haggard care and her wry faced train to a diſ<g ref="char:EOLhyphen"/>tance. Depend upon it, Reader, that with a few glaſſes of wine in your head, a pretty laſs upon your knee and the <hi>"Feaſt of Merriment"</hi> in your hand, you will be a thouſand times happier than any monarch in the univerſe.</p>
+<pb n="v" facs="unknown:028656_0005_0FDA3CFA3756EA78"/>incluſive of quack doctors in abundance, will do them half the ſer<g ref="char:EOLhyphen"/>vice that can be effected by a peruſal of this book. If they ſhould chance to be a little ſqueamiſh at the ſtomach, it will prove an excellent remedy for the ſpleen, or the belly-ach of deſpair. In a word, the Editor has written and compiled it for the benefit of thoſe who may be diſpoſed to dance and ſing; to add glee to the ſhort pittance of life, to improve the ſocial virtues; to heighten the charms of the big-bel<g ref="char:EOLhyphen"/>lied decanter, and to frighten haggard care and her wry faced train to a diſ<g ref="char:EOLhyphen"/>tance. Depend upon it, Reader, that with a few glaſſes of wine in your head, a pretty laſs upon your knee and the <hi>"Feaſt of Merriment"</hi> in your hand, you will be a thouſand times happier than any monarch in the univerſe.</p>
             <closer>
                <dateline>Philadelphia, <date>October, 1795.</date>
                </dateline>
@@ -138,22 +140,22 @@
       </front>
       <body>
          <div type="anecdotes">
-            <pb facs="tcp:028656_0006_0FDA3CFF4DBF68C0"/>
+            <pb facs="unknown:028656_0006_0FDA3CFF4DBF68C0"/>
             <head>THE FEAST OF MERRIMENT.</head>
             <p>A SCOTCH major, who had been ſo ſkillful with his ſword as to fight ſeveral duels with re<g ref="char:EOLhyphen"/>peated ſucceſs, but who, on account of his extreme deſire for quarreling when a little intoxicated, and for his boaſted courage, was deſerted and de<g ref="char:EOLhyphen"/>ſpiſed by his brother officers, came one evening into a large company. There happened to be preſent a Yankee, an officer of the ſame regiment which was then ſtationed at Montreal. This Yankee related among other things the failure of a certain expedition in which he had the misfor<g ref="char:EOLhyphen"/>tune to be wounded. That was becauſe you were a <hi>raſcally ſet of cowards,</hi> obſerved the ſu<g ref="char:EOLhyphen"/>percilious major. You are a <hi>d—n'd liar,</hi> ſays the Yankee. The company ſtared. The Scotchman looked down upon him with as much contempt as Goliah did upon David and immediately aſked, Are you a man to meet me? Yes, replied the Yankee, at any time and where you pleaſe, only with this proviſo, that we me<gap reason="illegible" resp="#PDCC" extent="2 letters">
                   <desc>••</desc>
                </gap> without ſeconds. Well then, to-morrow morning at five o'clock, at —. Agreed. The company preſent en<g ref="char:EOLhyphen"/>deavored to diſſuade the Yankee, telling him the major had every advantage where he had none, and that he had beſt compromiſe matters, ere he would have cauſe to repent his raſhneſs; but he ſtill perſiſted. The next morning the Yankee
-<pb n="8" facs="tcp:028656_0007_0FDA3D323856E9A0"/>repaired to the place ſomewhat before the ap<g ref="char:EOLhyphen"/>pointed hour, armed with a <hi>large muſket,</hi> ſhortly after the major made his appearance, with his brace of piſtols and his ſword. Before he had ad<g ref="char:EOLhyphen"/>vanced far, the Yankee, in an auſtere tone, bid him halt or he would blow his brains out. Upon which the major, ſtruck with amazement at this unexpected ſtratagem, reluctantly obeyed, but ex<g ref="char:EOLhyphen"/>poſtulated with him upon the injuſtice of ſuch an ungentle man like proceeding; the Yankee was implacable, determined to puniſh him for his paſt conduct and for the abuſe he had himſelf receiv<g ref="char:EOLhyphen"/>ed. Lay down your ſword and piſtols, ſays he, (ſtill preſenting his muſket) and <hi>to the right, about, face, march!</hi> The poor major was again under the neceſſity of obeying, and uttering a volley of curſes againſt his ſtars, paſſively ſubmitted.—The Yankee then quietly took poſſeſſion of his arms. 'Tis baſe, 'tis cowardly thus to diſarm me of all defence, ſays the major. No, replied his fellow combatant, I will deal honorably with you, there take my muſket (throwing it towards him) and defend yourſelf. He, quite incenſed, ſeized the weapon with a mixture of exultation and precipi<g ref="char:EOLhyphen"/>tate vengeance, and ruſhing forward demanded his arms <hi>or he would blow him to h—l;</hi> blow and be d—n'd, ſays the Yankee. Provoked at ſuch unparelled inſolence, in a fit of frenzy, he drew the trigger! But, alas, the muſket had <hi>not been charged!</hi> The glory of our braggadocia was ſo ſullied, and his ſeeling ſo mortally wounded by this indignation, that he ſold his commiſſion and left the place.</p>
+<pb n="8" facs="unknown:028656_0007_0FDA3D323856E9A0"/>repaired to the place ſomewhat before the ap<g ref="char:EOLhyphen"/>pointed hour, armed with a <hi>large muſket,</hi> ſhortly after the major made his appearance, with his brace of piſtols and his ſword. Before he had ad<g ref="char:EOLhyphen"/>vanced far, the Yankee, in an auſtere tone, bid him halt or he would blow his brains out. Upon which the major, ſtruck with amazement at this unexpected ſtratagem, reluctantly obeyed, but ex<g ref="char:EOLhyphen"/>poſtulated with him upon the injuſtice of ſuch an ungentle man like proceeding; the Yankee was implacable, determined to puniſh him for his paſt conduct and for the abuſe he had himſelf receiv<g ref="char:EOLhyphen"/>ed. Lay down your ſword and piſtols, ſays he, (ſtill preſenting his muſket) and <hi>to the right, about, face, march!</hi> The poor major was again under the neceſſity of obeying, and uttering a volley of curſes againſt his ſtars, paſſively ſubmitted.—The Yankee then quietly took poſſeſſion of his arms. 'Tis baſe, 'tis cowardly thus to diſarm me of all defence, ſays the major. No, replied his fellow combatant, I will deal honorably with you, there take my muſket (throwing it towards him) and defend yourſelf. He, quite incenſed, ſeized the weapon with a mixture of exultation and precipi<g ref="char:EOLhyphen"/>tate vengeance, and ruſhing forward demanded his arms <hi>or he would blow him to h—l;</hi> blow and be d—n'd, ſays the Yankee. Provoked at ſuch unparelled inſolence, in a fit of frenzy, he drew the trigger! But, alas, the muſket had <hi>not been charged!</hi> The glory of our braggadocia was ſo ſullied, and his ſeeling ſo mortally wounded by this indignation, that he ſold his commiſſion and left the place.</p>
             <p>
-               <pb n="9" facs="tcp:028656_0008_0FDA3D00C001A5E0"/>
+               <pb n="9" facs="unknown:028656_0008_0FDA3D00C001A5E0"/>
 Mr. L—, a citizen of ſome note in New-York, was taken very ill of the gout, which in<g ref="char:EOLhyphen"/>ſpired him with ſuch dreadful apprehenſions that he looked upon himſelf as already dead. Dr. M N— was ſent for, and on entering the room his patient exclaimed. Oh, doctor, <hi>I'm a dead man, I'm a dead man!</hi> Well then, replied the doctor, I can do nothing for you, and inſtantly left the room. On his return ſome gentlemen enquired, how his patient was? How! why he is dead. Dead! ſaid they, with the utmoſt ſur<g ref="char:EOLhyphen"/>prize. Yes, abſolutely dead, replies the doctor. The ſolemn news ſoon gained circulation; howe<g ref="char:EOLhyphen"/>ver before long it was diſcovered to be a falſe report. Some of the gentlemen to whom the doctor had communicated the intelligence meeting with him ſhortly afterwards, queſtioned him, why he had informed them that Mr L— was dead, when it was not ſo. What is he not dead? ſaid he. No ſurely. Well then, ſaid the doctor, <hi>he is ad—n'd liar for he told me ſo himſelf.</hi>
             </p>
             <p>A young man meeting his father one moon<g ref="char:EOLhyphen"/>light evening pretty tipſey, thought it his duty to lead him home; on their way the old gentle<g ref="char:EOLhyphen"/>man happened to ſtumble juſt as they were paſſing under a ſign, and enquired of his ſon what ſign it was? ſays he, It is a ſign you are d—n'd drunk, father.</p>
             <p>Two ſailors paſſing by a taylor's ſhop in Phila<g ref="char:EOLhyphen"/>delphia, obſerved one of the journeyman had a great variety of patches in the back part of his jacket; upon which one of the honeſt tars ex<g ref="char:EOLhyphen"/>claimed,
-<pb n="10" facs="tcp:028656_0009_0FDA3D339328BD48"/>D—n my eyes, Jack, did you ever ſee ſo many different kinds of <hi>cabbage</hi> grow upon one <hi>ſtalk?</hi>
+<pb n="10" facs="unknown:028656_0009_0FDA3D339328BD48"/>D—n my eyes, Jack, did you ever ſee ſo many different kinds of <hi>cabbage</hi> grow upon one <hi>ſtalk?</hi>
             </p>
             <p>Previous to the late American revolution, when diſtinction and rank were more faſhionable than at preſent, there happened to be a ſplendid ball in the city of New-York, which Miſs T—and Miſs M—attended. Miſs T's father had been a rope-maker in the former part of his life, but having acquired an immenſe fortune at his trade, he quit buſineſs and lived in the moſt magnificent ſtyle. But the circumſtances of Miſs M—'s father, who was a ſaddler, were ſomewhat cir<g ref="char:EOLhyphen"/>cumſcribed, and he ſtill ſubſiſted by the uſe of his hammer and awl. Miſs T—, who had con<g ref="char:EOLhyphen"/>ceived an averſion againſt Miſs M—, affected a ſurprizing mortification that the auguſt perſon<g ref="char:EOLhyphen"/>ages of the aſſembly ſhould be inſulted by the preſence of a lady of ſuch mean rank and fortune; in a fit of extreme indignation ſhe came up to Miſs M— and in a whiſper ſaid to her, Miſs, I wiſh to ſpeak to you before one of the mana<g ref="char:EOLhyphen"/>gers. Miſs M— conſented, and when they came before the manager, Miſs T— proclaimed in a loud voice, which inſtantly ſilenced the whole company, "Mr. Manager, I am aſtoniſhed that you admit a perſon of her low rank (pointing to Miſs M—) to diſgrace the preſence of her ſuperiors, and at any rate I think if ſuch creatures cannot be excluded, they ought to be compelled to wear the badges of their profeſſions." "Alas, retorted Miſs M—, with a ſmile of infinite con<g ref="char:EOLhyphen"/>tempt, were we all to appear with the <hi>badges</hi> of
-<pb n="11" facs="tcp:028656_0010_0FDA3D035BDD2208"/>
+<pb n="11" facs="unknown:028656_0010_0FDA3D035BDD2208"/>
                <hi>our profeſſions,</hi> we ſhould ſee your <hi>noble</hi> ladyſhip with a <hi>rope</hi> around your <hi>neck."</hi> This reply oc<g ref="char:EOLhyphen"/>caſioned ſuch reiterated peals of laughter, that the noble Miſs T— was obliged to retire with anguiſh and mortification not to be deſcribed.</p>
             <p>A Dutch ſeaman being aloft unluckily fell from a great height flat upon deck, but not re<g ref="char:EOLhyphen"/>ceiving any conſiderable injury, roſe up and ex<g ref="char:EOLhyphen"/>claimed, <hi>Got bleſs me, I've broke my bipe.</hi>
             </p>
@@ -161,7 +163,7 @@ Mr. L—, a citizen of ſome note in New-York, was taken very ill of the gout, w
             <p>Two lawyers, who were as different in ſtature as in ability, happened to be opponents in a cauſe. The one, though very diminutive, proved never<g ref="char:EOLhyphen"/>theleſs too powerful in argument; which when his taller adverſary diſcovered, and thinking to confuſe him by redicule, bellowed out very auſten<g ref="char:EOLhyphen"/>tatious, Hold your prattle you little chatter-box, or I'll put you into my pocker. Could you do that, retorted the little orator, you would have more law in your <hi>pocket</hi> than ever you had in your <hi>head.</hi>
             </p>
             <p>One day a very little man was about entering a houſe, but the door being ſhut and the knocker placed above his reach, not wiſhing to hurt his knuckles, accoſted a tall good-natured looking man juſt coming by and requeſted him to ſtep up and knock for him, which when he had done he jo<g ref="char:EOLhyphen"/>coſely
-<pb n="12" facs="tcp:028656_0011_0FDA3D36A28B23C0"/>ſaid, What are ſuch little chaps as you good for? <gap reason="illegible" resp="#PDCC" extent="1 letter">
+<pb n="12" facs="unknown:028656_0011_0FDA3D36A28B23C0"/>ſaid, What are ſuch little chaps as you good for? <gap reason="illegible" resp="#PDCC" extent="1 letter">
                   <desc>•</desc>
                </gap>he dw<gap reason="illegible" resp="#PDCC" extent="1 letter">
                   <desc>•</desc>
@@ -172,7 +174,7 @@ Mr. L—, a citizen of ſome note in New-York, was taken very ill of the gout, w
                </gap>plied he, I informed you of my inten<g ref="char:EOLhyphen"/>tion to kill a turkey by electricity, but, alas, my deſign miſcaried and I had like to have killed a <hi>gooſe.</hi>
             </p>
             <p>
-               <pb n="13" facs="tcp:028656_0012_0FDA3D04539C62C0"/>
+               <pb n="13" facs="unknown:028656_0012_0FDA3D04539C62C0"/>
 A wild young nobleman being in company with Shakeſpear, deſired leave to toaſt the d—l: with all my heart replies our wag, I have no ob<g ref="char:EOLhyphen"/>jection to any of your lordſhip's <hi>friends.</hi>
             </p>
             <p>A gentleman being choaked with a honey<g ref="char:EOLhyphen"/>comb, his friends began to bemoan him, Why make you ſuch lamentation? ſaid Shakeſpear, never man had a <hi>ſweeter</hi> death.</p>
@@ -186,7 +188,7 @@ A wild young nobleman being in company with Shakeſpear, deſired leave to toaſ
                </gap> abſent lady, which he had often done for many years, tho' he had never the con<g ref="char:EOLhyphen"/>rage to ſpeak to her: our wag, who ſat next him, ſaid, I believe, Sir, you have toaſted that lady theſe ſeven years at leaſt, and it's ſurprizing ſhe is not <hi>Brown</hi> yet.</p>
             <p>Shakeſpear being in company with ſome gen<g ref="char:EOLhyphen"/>tlemen and ladies, who were playing at compari<g ref="char:EOLhyphen"/>ſon; an agreeable young lady was likened to a repeater; ſhe applied to Shakeſpear for the pro<g ref="char:EOLhyphen"/>priety of the reſemblance: Madam, ſays he, I find a very great difference; a repeater makes us <hi>remember</hi> the hours, but you make us <hi>forget</hi> them.</p>
             <p>Shakeſpear having brought his friend down into his cellar, his friend obſerving there was no ſeat to ſit upon, aſked him the reaſon of it; be<g ref="char:EOLhyphen"/>cauſe,
-<pb n="14" facs="tcp:028656_0013_0FDA3D384A76C5A0"/>replied Shakeſpear, I will have no man that comes here drink <hi>any longer than he can ſtand.</hi>
+<pb n="14" facs="unknown:028656_0013_0FDA3D384A76C5A0"/>replied Shakeſpear, I will have no man that comes here drink <hi>any longer than he can ſtand.</hi>
             </p>
             <p>Shakeſpear being told by a gentleman, that players were idle fellows; you are miſtaken ſays our wag, for their whole life is <hi>full of action.</hi>
             </p>
@@ -197,7 +199,7 @@ A wild young nobleman being in company with Shakeſpear, deſired leave to toaſ
             </p>
             <p>A young lady who had been lately married, on ſeeing her huſband about to riſe pretty early in the morning, ſaid, what, my dear, are you get<g ref="char:EOLhyphen"/>ting up already? pray lie a little longer and reſt yourſelf. No, my dear, I'll <hi>get up</hi> and <hi>reſt</hi> myſelf.</p>
             <p>
-               <pb n="15" facs="tcp:028656_0014_0FDA3D076B44A900"/>
+               <pb n="15" facs="unknown:028656_0014_0FDA3D076B44A900"/>
 Shakeſpear one day condoling with an Iriſh gentleman, whoſe father had lately <hi>died well;</hi> ſays Paddy, it does not ſignify grieving, for its what we muſt all come to, if we do but <hi>live long enough.</hi>
             </p>
             <p>At a tavern meeting Shakeſpear finding him<g ref="char:EOLhyphen"/>ſelf intoxicated, ſlipped from the company and home to bed; next meeting one of the party, who reproached him with going away without taking leave of his companions; ſays he, indeed you ought to excuſe me, for if I did not take leave of the company, <hi>I ſtaid till I had entirely taken leave of myſelf.</hi>
@@ -207,7 +209,7 @@ Shakeſpear one day condoling with an Iriſh gentleman, whoſe father had lately
             <p>Alderman Townſend one day ſeeing his ſoot<g ref="char:EOLhyphen"/>man with an old greaſy hat, ſlouching over his ſhoulders, Sirrah, ſays the alderman, who gave you that cuckold's hat? <hi>Indeed, Sir, ſays John, it was my miſtreſs gave it me, and told me it was one of yours.</hi>
             </p>
             <p>Lord Temple aſked a clergyman once, at the
-<pb n="16" facs="tcp:028656_0015_0FDA3D399821F2B0"/>bottom of his table, why the gooſe, if there was one, was always placed next the parſon? Really, ſaid he, I can give no reaſon for it; but your queſtion is ſo odd, that I ſhall never ſee a gooſe for the future <hi>without thinking of your lordſhip.</hi>
+<pb n="16" facs="unknown:028656_0015_0FDA3D399821F2B0"/>bottom of his table, why the gooſe, if there was one, was always placed next the parſon? Really, ſaid he, I can give no reaſon for it; but your queſtion is ſo odd, that I ſhall never ſee a gooſe for the future <hi>without thinking of your lordſhip.</hi>
             </p>
             <p>The late duke of York aſking a young lady, one day, what it was o'clock; ſhe told him her watch <hi>ſtood.</hi> I don't wonder at that, madam, replied his highneſs, when it is ſo near <hi>your what-do-you-call-it.</hi>
             </p>
@@ -220,7 +222,7 @@ Shakeſpear one day condoling with an Iriſh gentleman, whoſe father had lately
             <p>Dr. Wilſon meeting his godſon, aſked him whither he was going? To ſchool, replies the boy. That's well, ſaid he, there is ſix-pence for you; follow thy learning apace; <hi>I may live to hear thee preach my funeral ſermon.</hi>
             </p>
             <p>
-               <pb n="17" facs="tcp:028656_0016_0FDA3D0995AA47A8"/>
+               <pb n="17" facs="unknown:028656_0016_0FDA3D0995AA47A8"/>
 Michael Angelo, in his picture of the laſt judg<g ref="char:EOLhyphen"/>ment, in the pope's chapel at Rome, had painted a<g ref="char:EOLhyphen"/>mong other figures in hell, that of cardinal Campe<g ref="char:EOLhyphen"/>gio (who had once done him ſome ill offices abroad) with ſuch a ſtriking likeneſs, that every body knew it at firſt ſight: upon which Campegio complained of the affront to his holineſs, and de<g ref="char:EOLhyphen"/>ſired it might be eraſed. The pope replied, it was out of his power to oblige him. Why ſo? ſaid Campegio. <hi>Becauſe, ſaid his holineſs, we can only deliver out of purgatory, but not out of hell.</hi>
             </p>
             <p>A celebrated lady complained to Lord Cheſter<g ref="char:EOLhyphen"/>field of the ill nature of the town, and amongſt other inſtances, ſaid, that occaſion had been taken from a late illneſs of her's, to ſpread a report that ſhe had been brought to bed of two children. His lordſhip adviſed her to be eaſy under ſuch circumſtances; adding, that for his part, he had long made it a rule not to believe <hi>more than half what the town ſaid.</hi>
@@ -230,7 +232,7 @@ Michael Angelo, in his picture of the laſt judg<g ref="char:EOLhyphen"/>ment, i
             <p>A gentleman being aſked what wine he chiefly chuſed for his own drinking, anſwered, <hi>that of other people's.</hi>
             </p>
             <p>A London rider going to Edinburgh, and per<g ref="char:EOLhyphen"/>ceiving it to grow late, aſked a man whom he met in his way, if he thought he could get thought the gate; the rider meant to aſk him, if he could get into the city before the gates were
-<pb n="18" facs="tcp:028656_0017_0FDA3D3E29248C08"/>
+<pb n="18" facs="unknown:028656_0017_0FDA3D3E29248C08"/>
                <gap reason="illegible" resp="#PDCC" extent="1 letter">
                   <desc>•</desc>
                </gap>hut, but the man taking it in another ſenſe, when ſeeing him ſo very fat and thick, burſt out a laughing, and cried, why ſhould not you get through, <hi>ſince a cart loaded with<gap reason="illegible" resp="#PDCC" extent="3 letters">
@@ -244,16 +246,16 @@ Michael Angelo, in his picture of the laſt judg<g ref="char:EOLhyphen"/>ment, i
             <p>A Scotchman was walking in depth of winter upon the new bridge at Paris, with only a thin white linen doublet on, with ſtockings of the ſame ſtuff, a little camblet cloak, and a ſword by his ſide; the king happened to paſs that way, and ſeeing this man in ſuch a dreſs at that time of the year, was curious to know the reaſon of it; upon which he commanded him to be called: He the<gap reason="illegible" resp="#PDCC" extent="1 letter">
                   <desc>•</desc>
                </gap>
-               <pb n="19" facs="tcp:028656_0018_0FDA3D0B9C449A50"/>aſked him if he was not cold? No, ſir, replies our Scot. How is it poſſible friend, replies the king, but you ſhould be ſo, in the thin dreſs you wear, when I who am better cloathed than you, am yet ready to freeze? Oh, replies Sawney, if your majeſty would but do as I do, you would never feel the leaſt cold. How's that, ſays the king; Why if your majeſty would but put on <hi>all your</hi> cloaths, as I put <hi>all mine,</hi> you would be warm enough. The king was ſo pleaſed with this ſecret, that he gave orders for his having a good winter ſuit.</p>
+               <pb n="19" facs="unknown:028656_0018_0FDA3D0B9C449A50"/>aſked him if he was not cold? No, ſir, replies our Scot. How is it poſſible friend, replies the king, but you ſhould be ſo, in the thin dreſs you wear, when I who am better cloathed than you, am yet ready to freeze? Oh, replies Sawney, if your majeſty would but do as I do, you would never feel the leaſt cold. How's that, ſays the king; Why if your majeſty would but put on <hi>all your</hi> cloaths, as I put <hi>all mine,</hi> you would be warm enough. The king was ſo pleaſed with this ſecret, that he gave orders for his having a good winter ſuit.</p>
             <p>A countryman deſired a neighbour of his to lend him an aſs, who told him that he had lent it to another, and that he was very ſorry he had not aſked him before: he had not yet done ſpeak<g ref="char:EOLhyphen"/>ing when the aſs began to bray; oh, oh, ſays the peaſant, d'ye hear; your aſs ſays, that 'tis not true that you had lent him out; you are indeed a very obliging perſon: How, ſays the country<g ref="char:EOLhyphen"/>man, would you ſooner give credit to <hi>my aſs than to myſelf.</hi>
             </p>
             <p>Earl Verney going to croſs a river, and ima<g ref="char:EOLhyphen"/>gining it to be very deep, bid his ſervant go be<g ref="char:EOLhyphen"/>fore him; but he, to ſhew politeneſs, replied, I never will be guilty of ſo much ill manners, pray, my lord, do you croſs over firſt.</p>
             <p>A young man being violently in love with a virtuous and beautiful girl, and meeting one day with an opportunity of ſpeaking to her, he aſked her whether ſhe would content him? The pru<g ref="char:EOLhyphen"/>dent and witty young woman replied, yes, pro<g ref="char:EOLhyphen"/>vided
-<pb n="20" facs="tcp:028656_0019_0FDA3D3FC09DAF30"/>he would grant her one thing only: when being aſked, what that thing was? She replied, that which <hi>you have not, nor cannot have,</hi> and <hi>yet may give me.</hi> The lover deſired to know the meaning of that riddle; ſhe explained it to him as follows: as you are a <hi>young man,</hi> you neither have, <hi>nor can</hi> have, a <hi>huſband,</hi> and yet you may give me one by beſtowing <hi>yourſelf upon me,</hi> and then I ſhall have what I wiſh for.</p>
+<pb n="20" facs="unknown:028656_0019_0FDA3D3FC09DAF30"/>he would grant her one thing only: when being aſked, what that thing was? She replied, that which <hi>you have not, nor cannot have,</hi> and <hi>yet may give me.</hi> The lover deſired to know the meaning of that riddle; ſhe explained it to him as follows: as you are a <hi>young man,</hi> you neither have, <hi>nor can</hi> have, a <hi>huſband,</hi> and yet you may give me one by beſtowing <hi>yourſelf upon me,</hi> and then I ſhall have what I wiſh for.</p>
             <p>A great perſonage lately cenſured his brother very ſeverely for his irregular courſe of life, and particularly on account of his unbridled paſſion for intrigue: you ſee, ſays he, what a ſum I have to pay for you: not ſenſible of the diſgrace you bring on your family, and how unworthy it is not to follow our better example. The young buck, with his uſual levity, turned round upon his heel, whiſtled, for he is fond of muſic, and then left the room, humming to himſelf <hi>my mo<g ref="char:EOLhyphen"/>ther did ſo before me.</hi>
             </p>
             <p>A poor Frenchman, who was very hungry, went into a cook's ſhop in St. Giles's, and there ſtaid till his ſtomach was ſatisfied with the ſmell of the victuals; the cook falling into a paſſion, in<g ref="char:EOLhyphen"/>ſiſted on his paying him for a dinner, which the poor monſieur refuſed to do and the diſpute growing high, it was agreed to refer the deciſion of it to the firſt man that paſſed that way, which happened to be a chimney ſweep, but who, on hearing the caſe, very wiſely determined that the Frenchman's money ſhould be ſhook between two empty diſhes, and the cook ſhould be ſatisfied with
-<pb n="21" facs="tcp:028656_0020_0FDA3D0DF5AFD1F8"/>the <hi>gingling</hi> of it, as the poor man had been ſatis<g ref="char:EOLhyphen"/>fied with the <hi>ſmell</hi> of the cook's meat.</p>
+<pb n="21" facs="unknown:028656_0020_0FDA3D0DF5AFD1F8"/>the <hi>gingling</hi> of it, as the poor man had been ſatis<g ref="char:EOLhyphen"/>fied with the <hi>ſmell</hi> of the cook's meat.</p>
             <p>As counſellor Meſſing was pleading before Lord Mansfield, he aſked his lordſhip, Whether the lawyer or the phyſician was to have the pre<g ref="char:EOLhyphen"/>cedency in any judicial affair: ſays my lord, Pray who goes firſt, the criminal or the executioner? the criminal, replied the pleader: Then, ſays his lordſhip, the lawyer may go firſt as the <hi>thief,</hi> and the phyſician follow after as the <hi>executioner.</hi>
             </p>
             <p>A watchman met a perſon one evening who was going along in great perplexity, to whom he ſaid, What arms have you about you? he re<g ref="char:EOLhyphen"/>plied, a dagger, ſir. But ſearching him, he found that it was a bottle of wine, which he drinking off, returned him the <hi>bottle,</hi> ſaying. Here friend, I return you back the <hi>ſheath</hi> again.</p>
@@ -262,7 +264,7 @@ Michael Angelo, in his picture of the laſt judg<g ref="char:EOLhyphen"/>ment, i
             <p>A man who was blind of an eye, met, very early one morning, a crook-back'd man, to whom he ſaid, friend, you are loaded very early: the crook-back'd man replied, It muſt indeed be very early ſince you have got but one of your <hi>windows open.</hi>
             </p>
             <p>As juſtice Cox was bemoaning himſelf to ano<g ref="char:EOLhyphen"/>ther who was a farmer, for the great ſcarcity of corn, ſaying, he believed, that if it did not rain<g ref="char:punc">▪</g>
-               <pb n="22" facs="tcp:028656_0021_0FDA3D4118B28280"/>all the beaſts would die: he replied to him, <hi>Hea<g ref="char:EOLhyphen"/>ven preſerve your worſhip.</hi>
+               <pb n="22" facs="unknown:028656_0021_0FDA3D4118B28280"/>all the beaſts would die: he replied to him, <hi>Hea<g ref="char:EOLhyphen"/>ven preſerve your worſhip.</hi>
             </p>
             <p>The noted Drs. Rock and Franks on a time being very angry with each other, Rock ſaying to him, hold your tongue you ſcoundrel, don't I know, that <hi>your father was a bricklayer:</hi> Franks immediately replied, no one could have told you that, <hi>but your own father who carried the ſtone and lime to mine.</hi>
             </p>
@@ -272,12 +274,12 @@ Michael Angelo, in his picture of the laſt judg<g ref="char:EOLhyphen"/>ment, i
             <p>As the celebrated Mrs. Robinſon was going one Sunday to maſs, met an upſtart peaſant at the church or, who was for aping a gentleman, when ſhe, in order to ridicule him, aſked him, if the maſs for the <hi>peaſants</hi> was ended; he immedi<g ref="char:EOLhyphen"/>ately replied, madam, it is ended, and that of the <hi>ſtrumpets</hi> is juſt beginning, make haſte in, and <hi>you'll be time enough with the reſt.</hi>
             </p>
             <p>L—d Chatham making one of a party at whiſt, one of the gameſters, with a bitter oath declared he had the <hi>worſt hand</hi> in the company, a conſiderable bet was propoſed, and agreed to by
-<pb n="23" facs="tcp:028656_0022_0FDA3D105560C740"/>his lordſhip, that he <hi>had a worſe;</hi> he pulled off his glove, and ſhewed his <hi>gouty hand,</hi> when the company unanimouſly pronounced it in his lord<g ref="char:EOLhyphen"/>ſhip's favor.</p>
+<pb n="23" facs="unknown:028656_0022_0FDA3D105560C740"/>his lordſhip, that he <hi>had a worſe;</hi> he pulled off his glove, and ſhewed his <hi>gouty hand,</hi> when the company unanimouſly pronounced it in his lord<g ref="char:EOLhyphen"/>ſhip's favor.</p>
             <p>Shakeſpear being one day at dinner at a coun<g ref="char:EOLhyphen"/>try inn with ſome gentlemen travellers, obſerved one of them, in particular, take great precaution to convey a ſilver ſpoon into his pocket unper<g ref="char:EOLhyphen"/>ceived by any of the reſt; our wag, in order to clear himſelf and the reſt of the gueſts from the imputation of theft, takes his ſpoon, and ties it to the breaſt button of his coat, which the landlord perceiving, aſked, what he was going to do with it, why, replies Shakeſpear, I thought it was the cuſtom of this houſe for all gueſts to carry away their ſpoons which way they thought proper, I prefer this way, but for that gentleman, pointing to him that ſtole one, he likes to put his in his <hi>pocket.</hi>
             </p>
             <p>Lord Carliſle happening to make water againſt a houſe, did not ſee two young ladies looking out of a window cloſe by, till he heard them giggling, when looking towards them, he aſked, What made them ſo merry? O Lord, ſaid one of them, <hi>a very little thing</hi> will make us laugh.</p>
             <p>Two gentlemen having words in a tavern, at length fell to fighting with their canes; a ſtander<g ref="char:EOLhyphen"/>by obſerving one of them to ſtrike his antagoniſt over the head, while the other only belabored his ſides and ſhoulders; after the fray was over, aſked the latter why he did not ſtrike upon the head
-<pb n="24" facs="tcp:028656_0023_0FDA3D44C35B96B0"/>alſo; Oh, ſir, ſaid he, if I had hit him over the <hi>head,</hi> I ſhould have <hi>broke my cane.</hi>
+<pb n="24" facs="unknown:028656_0023_0FDA3D44C35B96B0"/>alſo; Oh, ſir, ſaid he, if I had hit him over the <hi>head,</hi> I ſhould have <hi>broke my cane.</hi>
             </p>
             <p>A gentleman came to a widow's, and ſhe pre<g ref="char:EOLhyphen"/>ſented him with a cup of ſmall beer; ſo coming a week afterwards, ſhe ſalutes him with another cup of the ſame beer, ſaying, ſir, I dare not com<g ref="char:EOLhyphen"/>mend the beer to you, for indeed it is <hi>dead.</hi> To which he replied, That may very well be, for it was very <hi>weak</hi> when I was here laſt.</p>
             <p>A gentlewoman loved a doctor of phyſic, and to enjoy him feigned herſelf ſick; the doctor be<g ref="char:EOLhyphen"/>ing ſent for in all haſte, went up and ſtaid with her an hour; when he came down, her huſband aſked him how ſhe did? O, ſays he, ſhe has had <hi>two ſuch extreme fits,</hi> that if you had but ſeen one of them it would have <hi>made your heart ach.</hi>
@@ -289,7 +291,7 @@ Michael Angelo, in his picture of the laſt judg<g ref="char:EOLhyphen"/>ment, i
             <p>A young <gap reason="illegible" resp="#PDCC" extent="4 letters">
                   <desc>••••</desc>
                </gap>dy of pretty high ſpirits, who was juſt about entering into the marriage ſtate, told her gallant, that ſhe could never bring herſelf to ſay <hi>obey,</hi> and was reſolved ſhe would not. When
-<pb n="25" facs="tcp:028656_0024_0FDA3D1205C4C2C8"/>the ceremony was performing, and ſhe was to repeat that word, ſh<gap reason="illegible" resp="#PDCC" extent="1 letter">
+<pb n="25" facs="unknown:028656_0024_0FDA3D1205C4C2C8"/>the ceremony was performing, and ſhe was to repeat that word, ſh<gap reason="illegible" resp="#PDCC" extent="1 letter">
                   <desc>•</desc>
                </gap> was for mincing the matter, and cried, honor and <hi>b<gap reason="illegible" resp="#PDCC" extent="1 letter">
                      <desc>•</desc>
@@ -305,7 +307,7 @@ Michael Angelo, in his picture of the laſt judg<g ref="char:EOLhyphen"/>ment, i
             <p>A knaviſh attorney aſked a very worthy gen<g ref="char:EOLhyphen"/>tleman What was <hi>honeſty?</hi> he replied, What is that to you, meddle with <hi>thoſe things that concern you.</hi>
             </p>
             <p>A young woman came to a lady to be hired, and the lady told her, ſhe was no maid, Yes in<g ref="char:EOLhyphen"/>deed, madam, ſays ſhe, but I am. How can that
-<pb n="26" facs="tcp:028656_0025_0FDA3D4654409200"/>be, replied the lady, when, to my knowledge, you have had a child. Well madam ſays ſhe, it was but a <hi>very little one,</hi> and do you make ſuch a matter of that?</p>
+<pb n="26" facs="unknown:028656_0025_0FDA3D4654409200"/>be, replied the lady, when, to my knowledge, you have had a child. Well madam ſays ſhe, it was but a <hi>very little one,</hi> and do you make ſuch a matter of that?</p>
             <p>A fellow blaming his ſweetheart, telling her ſhe was falſe to him, ſhe, to clear herſelf, uſed many imprecations, bidding him if it were ſo, to mark <hi>her end.</hi> Nay, for that, ſaid he, I ſhall not ſo much mark your end as I ſhall <hi>your middle.</hi>
             </p>
             <p>Two widows ſitting by the fire were chatting about their dead huſbands, and one ſaid, Let us have a candle, for my poor huſband loved light, God ſend him light everlaſting; and, ſaid the o<g ref="char:EOLhyphen"/>ther, my huſband loved fire, I wiſh him fire ever<g ref="char:EOLhyphen"/>laſting.</p>
@@ -314,7 +316,7 @@ Michael Angelo, in his picture of the laſt judg<g ref="char:EOLhyphen"/>ment, i
             </p>
             <p>Dr. Graham having been out a ſhooting one whole morning without killing any thing, his ſervant begged leave to go over to the next field, for he was ſure there were ſome birds there, and, adds the man, "If there are, I'll <hi>doctor</hi> them;" <hi>Doctor</hi> them, ſays the maſter, what do you mean by that? Why <hi>kill</hi> them, ſir.</p>
             <p>Lord D—n told Betty Careleſs, upon ſhewing
-<pb n="27" facs="tcp:028656_0026_0FDA3D1664E534A8"/>her legs, that they were very handſome, and ſo much alike that they muſt needs be <hi>twins:</hi> but indeed, ſaid ſhe, you are miſtaken, for I have had <hi>more than two or three</hi> between them.</p>
+<pb n="27" facs="unknown:028656_0026_0FDA3D1664E534A8"/>her legs, that they were very handſome, and ſo much alike that they muſt needs be <hi>twins:</hi> but indeed, ſaid ſhe, you are miſtaken, for I have had <hi>more than two or three</hi> between them.</p>
             <p>One meeting an acquaintance, ſays to him, with a kind of ſecret joy, <hi>I'll tell you a piece of news, my friend, between you and I my wife's with child. Between you and I,</hi> anſwered the other, <hi>you are greatly miſtaken, for I have not lain with your wife theſe twelve months.</hi>
             </p>
             <p>A lady ſeeing the ſheriff of a county, who was a very handſome young gentleman, attending the judge, who was an old man, a gentleman ſtanding by, aſked her, which ſhe liked beſt, the judge or the ſheriff? the lady told him the ſheriff; Why ſo, ſaid the gentleman. <hi>Becauſe,</hi> anſwered ſhe, <hi>though I love judgment well, I love execution better.</hi>
@@ -326,13 +328,13 @@ Michael Angelo, in his picture of the laſt judg<g ref="char:EOLhyphen"/>ment, i
                </gap> ſhe, <hi>the ſon of your father and mother.</hi>
             </p>
             <p>A ſharper of the town ſeeing a country gentle<g ref="char:EOLhyphen"/>man ſit alone at an inn, and thinking ſomething
-<pb n="28" facs="tcp:028656_0027_0FDA3D4804AE5958"/>might be made of him, went and ſat near him; having thus introduced himſelf, he called for a paper of <hi>tobacco,</hi> and ſaid, <hi>do you ſmoke, ſir? Yes,</hi> ſaid the gentleman very gravely, any <hi>one that has a deſign upon me.</hi>
+<pb n="28" facs="unknown:028656_0027_0FDA3D4804AE5958"/>might be made of him, went and ſat near him; having thus introduced himſelf, he called for a paper of <hi>tobacco,</hi> and ſaid, <hi>do you ſmoke, ſir? Yes,</hi> ſaid the gentleman very gravely, any <hi>one that has a deſign upon me.</hi>
             </p>
             <p>Lord W— G—n, playing at queſtions and commands, with ſome very pretty young ladies, was commanded to take off a garter from one of them, but ſhe, as ſoon as he had laid hold of her petticoats, ran away into the next room, where there was a bed; <hi>Now, madam,</hi> ſaid he, tripping up her heels, <hi>I bar ſqueaking, bar the door you fool,</hi> cried ſhe.</p>
             <p>A gentleman ſaying one day at table, that he could not endure a breaſt of mutton; You ſaid ſo the other day, cried another, of a breaſt of veal. Very true, anſwered the firſt, I do not love the <hi>breaſt</hi> of any but <hi>of a woman, and that goes againſt my ſtomach.</hi>
             </p>
             <p>One evening a gentleman very much in liquor, was leaning againſt a poſt in Cheapſide: a fellow coming by at the ſame time, ſeeing he was in ſuch a ſituation that he could not purſue him, ſnatched his hat off his head and ran away with it: Another of the ſame fraternity, at a little diſtance, ſaw what had happened, and told the gentleman that a man had ſtole his hat and run away with it, and aſked him why he did not run after him? <q>I am, ſo damn'd drunk, ſays he, that I can hardly <hi>ſtand</hi> and therefore, I cannot <hi>run after</hi> him.</q> If that's the caſe, ſaid the "other, I may ſafely venture to ſteal your wig;"
-<pb n="29" facs="tcp:028656_0028_0FDA3D17D7AA1EE8"/>which he immediately took from the gentleman's head, got clear off, and left the old toper bare<g ref="char:EOLhyphen"/>headed, hugging the poſt, and lamenting the loſs of his hat and wig.</p>
+<pb n="29" facs="unknown:028656_0028_0FDA3D17D7AA1EE8"/>which he immediately took from the gentleman's head, got clear off, and left the old toper bare<g ref="char:EOLhyphen"/>headed, hugging the poſt, and lamenting the loſs of his hat and wig.</p>
             <p>An honeſt Jack tar being at a quaker's meeting, heard the friend that was holding forth ſpeak with great emotion againſt the ill conſequence of giving the lie in converſation, and therefore, he adviſed, when any man was telling a tale that was not conſiſtent with truth or probability, to cry <hi>t<gap reason="illegible" resp="#PDCC" extent="1 letter">
                      <desc>•</desc>
                   </gap>ang,</hi> which would not irritate paſſion as the lie would; afterwards he digreſſed into the ſtory of the great miracle of five thouſand being fed with five loaves of bread, &amp;c. he told them, that they were not ſuch loaves as are uſed now but were as <hi>big as a mountain,</hi> at the hearing of which, the tar uttered with a loud voice, <hi>twang;</hi> what, ſays the quaker, doſt thou think I lie, friend? No, ſays Jack, but I am thinking how <hi>big the ovens were that baked them.</hi>
@@ -342,7 +344,7 @@ Michael Angelo, in his picture of the laſt judg<g ref="char:EOLhyphen"/>ment, i
             <p>Sirrah, ſays juſtice Ad—n, to one brought be<g ref="char:EOLhyphen"/>fore him, you are an arrant knave; ſays the pri<g ref="char:EOLhyphen"/>ſoner, juſt as your worſhip ſpoke, the clock ſtruck <hi>two.</hi>
             </p>
             <p>Lord H—n aſſured a young lady that h<hi rend="sup">e</hi>
-               <pb n="30" facs="tcp:028656_0029_0FDA3D4B4CB66118"/>would do any thing to ſerve her: If I was poor and neceſſitous, ſaid the lady, I make no doubt but you would expreſs yourſelf in a different man<g ref="char:EOLhyphen"/>ner. Indeed, madam, I would not, replied his lordſhip, for if you was <hi>naked</hi> I would <hi>cover you.</hi>
+               <pb n="30" facs="unknown:028656_0029_0FDA3D4B4CB66118"/>would do any thing to ſerve her: If I was poor and neceſſitous, ſaid the lady, I make no doubt but you would expreſs yourſelf in a different man<g ref="char:EOLhyphen"/>ner. Indeed, madam, I would not, replied his lordſhip, for if you was <hi>naked</hi> I would <hi>cover you.</hi>
             </p>
             <p>Dr. Rider, and two or three more gentlemen walking towards Hampſtead on a ſummer's day, were met by the famous Daniel Purcel the pun<g ref="char:EOLhyphen"/>ſter, who was very importunate with them to know upon what account they were going thither? The doctor merrily anſwered, to make <hi>hay;</hi> very well, replied the other you'll be there at a very convenient ſeaſon, the country wants <hi>rakes.</hi>
             </p>
@@ -352,7 +354,7 @@ Michael Angelo, in his picture of the laſt judg<g ref="char:EOLhyphen"/>ment, i
             <p>Shakeſpear ſaid of phyſicians, that <hi>earth</hi> was to them like <hi>charity,</hi> for it covered a <hi>multitude</hi> of the <hi>ſins.</hi>
             </p>
             <p>Shakeſpear ſeeing a very old lady youthfully dreſſed, eſpecially from her waiſt downwards, her
-<pb n="31" facs="tcp:028656_0030_0FDA3D1A764B6230"/>petticoats being richly flounced and embroidered, ſaid it was a pity to ſee ſo much finery employed in <hi>new hooping</hi> an <hi>old caſk.</hi>
+<pb n="31" facs="unknown:028656_0030_0FDA3D1A764B6230"/>petticoats being richly flounced and embroidered, ſaid it was a pity to ſee ſo much finery employed in <hi>new hooping</hi> an <hi>old caſk.</hi>
             </p>
             <p>A haughty fellow taking notice that every time he went by a ſhoemaker's ſhop, the maſter of it laughed, took it into his head to have him before a juſtice for the affront, upon which, the ſhoema<g ref="char:EOLhyphen"/>ker replied; that he had equal reaſon to complain for that every time he <hi>laughed</hi> the other went <hi>by</hi> his <hi>ſhop.</hi>
             </p>
@@ -362,7 +364,7 @@ Michael Angelo, in his picture of the laſt judg<g ref="char:EOLhyphen"/>ment, i
             <p>Shakeſpear ſeeing one coming towards him where he ſtood, aſked who it was, and being told that it was lord B—g, ſaid I thought it was a lord <hi>he looked ſo little like a gentleman.</hi>
             </p>
             <p>A gentleman upon ſeeing hung at a lady's watch the picture of her deceaſed huſband, who it was believed had haſtened his end by intemper<g ref="char:EOLhyphen"/>ance in connubial joys, ſaid, it was barbarous in
-<pb n="32" facs="tcp:028656_0031_0FDA3D4DD3BD96C0"/>her, to <hi>hang him in chains ſo near the place of ex<g ref="char:EOLhyphen"/>ecution.</hi>
+<pb n="32" facs="unknown:028656_0031_0FDA3D4DD3BD96C0"/>her, to <hi>hang him in chains ſo near the place of ex<g ref="char:EOLhyphen"/>ecution.</hi>
             </p>
             <p>A Frenchman who ſpoke very broken Engliſh, having ſome words with his wife, endeavored to call her bitch, but could not recollect the name, at laſt he thought he had done it, by ſaying, <hi>begar mine dear you be vone vile dog's wife;</hi> aye that's true enough anſwered the woman, the more my misfortune.</p>
             <p>The celebrated Thompſon going up the water in a boat, one of the watermen told him as they paſſed by Peterborough houſe at Millbank, that houſe had ſunk a <hi>ſtory;</hi> no friend, ſays he, I be<g ref="char:EOLhyphen"/>lieve it is a <hi>ſtory raiſed.</hi>
@@ -371,7 +373,7 @@ Michael Angelo, in his picture of the laſt judg<g ref="char:EOLhyphen"/>ment, i
             </p>
             <p>A young fellow being told his miſtreſs was mar<g ref="char:EOLhyphen"/>ried, and the better to convince him of it, added he had ſeen the <hi>bride</hi> and <hi>bridegroom;</hi> prithee, ſaid the forſaken ſwain, do not call them by thoſe names, I can't bear to hear them; ſhall I call them <hi>dog and cat,</hi> anſwered the other; oh no, for heaven's ſake, replied the firſt, that ſounds ten times more like <hi>man and wife</hi> than the other.</p>
             <p>A droll fellow who got a livelihood by fiddling at fairs and about the country, was one day met by an acquaintance that had not ſeen him a great while, who accoſted him thus, Bleſs me, are you
-<pb n="33" facs="tcp:028656_0032_0FDA3D1C531A4DF8"/>
+<pb n="33" facs="unknown:028656_0032_0FDA3D1C531A4DF8"/>
                <hi>alive!</hi> Why not, anſwered the fidler, did you ſend any body to <hi>kill</hi> me? No, replies the other, but I was told you was <hi>dead.</hi> Aye, ſo it was re<g ref="char:EOLhyphen"/>ported it ſeems, ſays the fidler, but I knew it was a <hi>lie</hi> as ſoon as <hi>I heard it.</hi>
             </p>
             <p>Lord Mansfield being willing to ſave a man that had ſtole a watch, deſired the jury to value it at <hi>ten-pence;</hi> upon which the proſecutor cries out, <hi>Ten-pence,</hi> my lord, why the very <hi>faſhion</hi> of it coſt me <hi>five pounds.</hi> Oh, ſays his lordſhip, we muſt not hang a man for <hi>faſhion's ſake.</hi>
@@ -383,7 +385,7 @@ Michael Angelo, in his picture of the laſt judg<g ref="char:EOLhyphen"/>ment, i
             <p>A young gentleman having had misfortunes, came to his miſtreſs, and told her, he was redu<g ref="char:EOLhyphen"/>ced even to the want of <hi>five guineas;</hi> to which ſhe replied, I am glad of it with all my heart. Are you ſo, madam, ſays he, ſuſpecting her con<g ref="char:EOLhyphen"/>ſtancy, pray, for what reaſon? Becauſe, ſaid, ſhe, <hi>I can furniſh you with five thouſand.</hi>
             </p>
             <p>Some thieves met a man, robbed him, and bound him in a wood; a little after, they met
-<pb n="34" facs="tcp:028656_0033_0FDA3D4FC62F4468"/>another, bound him alſo, and laid him on the o<g ref="char:EOLhyphen"/>ther ſide of the hedge; when one of them cried out, ſaying, <hi>I am uudone! I am undone!</hi> the other hearing him ſay ſo, prayed that he would come and <hi>undo him too.</hi>
+<pb n="34" facs="unknown:028656_0033_0FDA3D4FC62F4468"/>another, bound him alſo, and laid him on the o<g ref="char:EOLhyphen"/>ther ſide of the hedge; when one of them cried out, ſaying, <hi>I am uudone! I am undone!</hi> the other hearing him ſay ſo, prayed that he would come and <hi>undo him too.</hi>
             </p>
             <p>Lord T—ple lately addreſſed a lady in a public aſſembly, and told her, he had heard that her ladyſhip had ſpoke of him in a very diſreſpect<g ref="char:EOLhyphen"/>ful manner; on which her ladyſhip, with a great deal of humor, patted him on the <hi>head,</hi> and ſaid, Indeed my good lord, <hi>there is nothing in it.</hi>
             </p>
@@ -392,7 +394,7 @@ Michael Angelo, in his picture of the laſt judg<g ref="char:EOLhyphen"/>ment, i
             <p>A wag, going through a country church-yard, ſaw theſe words inſcribed on a tomb ſtone, <hi>To re<g ref="char:EOLhyphen"/>main there till called for;</hi> upon which he imme<g ref="char:EOLhyphen"/>diately took out his pencil and wrote underneath, <hi>ſtay there and be d—d.</hi>
             </p>
             <p>The celebrated Mr. Leveridge, on Saturday evening in giving out the play made a ſmall miſ<g ref="char:EOLhyphen"/>take, and inſtead of ſaying on <hi>Monday</hi> next will be preſented, &amp;c. addreſſed the audience with Ladies and gentlemen, <hi>to-morrow will be—To<g ref="char:EOLhyphen"/>morrow,</hi> ſays a buck from the pit, <hi>why to-morrow's Sunday.</hi> I know it my good friend, ſays Lever<g ref="char:EOLhyphen"/>idge, <hi>to-morrow</hi> there will be a <hi>charity ſermon</hi> preached at St. Paul's Covent-Garden, and on <hi>Monday,</hi> at this theatre, will be preſented the
-<pb n="35" facs="tcp:028656_0034_0FDA3D1F925D37B8"/>
+<pb n="35" facs="unknown:028656_0034_0FDA3D1F925D37B8"/>
                <hi>Recruiting Officer,</hi> with a farce called, <hi>Wit at a pinch.</hi> This turned the laugh of the audience, which was before againſt him, and he went off with an univerſal plaudit.</p>
             <p>Some ladies in the long room at Bath, obſerved colonel J—n was a ſmart fellow: Mr. Wilkes being preſent, choſe to exerciſe his wit, by imme<g ref="char:EOLhyphen"/>diately aſking him, Who was his <hi>taylor?</hi> Oh ſir, ſays the colonel, he won't do for you, he deals for <hi>ready money only.</hi>
             </p>
@@ -403,7 +405,7 @@ Michael Angelo, in his picture of the laſt judg<g ref="char:EOLhyphen"/>ment, i
                </gap>—l appear<g ref="char:EOLhyphen"/>ad in the character of <hi>a cook,</hi> and being met by lord T-m-e, was deſired to dreſs a couple of <hi>pork chops;</hi> my lord, replied the colonel, as you are the only <hi>hog</hi> in company, I muſt beg leave to cut them from your <hi>carcaſe.</hi>
             </p>
             <p>Shakeſpear being one evening in a tavern with a gentleman, the latter endeavored to force the former to drink more than he cared for, and ſwore if he did not pledge him he would rum him through the body; why then, ſays our wag, to
-<pb n="36" facs="tcp:028656_0035_0FDA3D51100472D8"/>ſave you the trouble, I'll run myſelf through, and <hi>pledge</hi> you afterwards. Upon which he ran down ſtairs and left the hero a <hi>pledge</hi> for the <hi>reckoning.</hi>
+<pb n="36" facs="unknown:028656_0035_0FDA3D51100472D8"/>ſave you the trouble, I'll run myſelf through, and <hi>pledge</hi> you afterwards. Upon which he ran down ſtairs and left the hero a <hi>pledge</hi> for the <hi>reckoning.</hi>
             </p>
             <p>The daughter of a haberdaſher who came down to Bath to drink the waters, being offered ſome indecency by a gentleman, ſpit plump into his mouth: Earl Cheſterfield being told of it, ſaid, That he never knew a <hi>naſty trick</hi> done in ſo <hi>clean</hi> a manner.</p>
             <p>Shakeſpear was one night drinking a bottle with a juſtice, when a conſtable brought a fine girl before him, however, the magiſtrate being engaged with his friends, bid Mr. Conſtable take her home to his houſe, and bring her the next day; I have no objection, ſays he, provided your worſhip will <hi>commit my wife till morning.</hi>
@@ -412,7 +414,7 @@ Michael Angelo, in his picture of the laſt judg<g ref="char:EOLhyphen"/>ment, i
             <p>A young lady of earl C—d's acquaintance, having refuſed her hand to a very deſerving man, becauſe he was poor, and being upon the point of marriage with a rich old gentleman; Madam, ſays his lordſhip, I always took you for a woman of ſenſe, but I have been miſtaken, I find you make <hi>matrimony</hi> a meer <hi>matter of money.</hi>
             </p>
             <p>Shakeſpear being one morning at a coffee-houſe,
-<pb n="37" facs="tcp:028656_0036_0FDA3D21957681C0"/>was very much diſturbed by a very noiſy gentleman, who ſat at a ſmall diſtance from him, upon which he enquired who the ſpark was; a gentleman told him he was one of thoſe gentry called <hi>rooks.</hi> A <hi>rook,</hi> ſir, ſays our wag, zounds, tis impoſſible, by his chattering I am ſure he is a <hi>magpye.</hi>
+<pb n="37" facs="unknown:028656_0036_0FDA3D21957681C0"/>was very much diſturbed by a very noiſy gentleman, who ſat at a ſmall diſtance from him, upon which he enquired who the ſpark was; a gentleman told him he was one of thoſe gentry called <hi>rooks.</hi> A <hi>rook,</hi> ſir, ſays our wag, zounds, tis impoſſible, by his chattering I am ſure he is a <hi>magpye.</hi>
             </p>
             <p>A fellow playing at back gammon threw deuce ace three times ſucceſſively, at which he was ſo enraged that he ſwore if he threw deuce ace again he would ſwallow the dice. He threw, and be<g ref="char:EOLhyphen"/>hold deuce ace again made their appearance; ac<g ref="char:EOLhyphen"/>cordingly he ſwallowed the refractory dice. A ſhort time afterwards he had occaſion to evacuate in a garden, and having appeaſed Pri<gap reason="illegible" resp="#PDCC" extent="1 letter">
                   <desc>•</desc>
@@ -420,14 +422,14 @@ Michael Angelo, in his picture of the laſt judg<g ref="char:EOLhyphen"/>ment, i
             <p>Teague being aſked one day, where he had been? replied, I have been receiving money all day but the d—l a farthing did I get.</p>
             <p>Some jovial ſons of Neptune having got ſome<g ref="char:EOLhyphen"/>what top-heavy with the juice of Bacchus in a gentleman's houſe, conceited themſelves to be at ſea in a ſtorm, and threw all the furniture out of the windows in order to lighten their ſhip, as they termed it.</p>
             <p>A countryman (for his comfort) had married a ſpit-fire of a wife, and by the force of long habit whenever he gave her any diſagreeable intelli<g ref="char:EOLhyphen"/>gence reſpecting the farm, ſhe would cry out, Why, did'nt I tell you ſo? One day, for a little
-<pb n="38" facs="tcp:028656_0037_0FDA3D545FEFCFD0"/>merriment he came running into the houſe and in great earneſtneſs exclaimed, Lord, my dear, the cows have eaten up the grind-ſtone! Well, did'nt I tell you ſo? ſays ſhe.</p>
+<pb n="38" facs="unknown:028656_0037_0FDA3D545FEFCFD0"/>merriment he came running into the houſe and in great earneſtneſs exclaimed, Lord, my dear, the cows have eaten up the grind-ſtone! Well, did'nt I tell you ſo? ſays ſhe.</p>
             <p>Very ſhortly after a certain gentleman had been diſappointed in a political purſuit he was ta<g ref="char:EOLhyphen"/>ken ſick; an acquaintance of his enquired how he was? Why, ſays a gentleman of the oppoſite party, I hear he is dangerouſly ill of a <hi>mortifi<g ref="char:EOLhyphen"/>cation.</hi>
             </p>
             <p>Parſon T—, when about fulfilling his deſign of preaching to the Suſquehanna Indians, applied to an opulent merchant for a ſmall ſum of money, the better to enable him to proſecute his great undertaking; Why, what do you intend to do among thoſe copper gentry? ſays the merchant. Prepare for them, replies the parſon, a place in the boſom of Abraham. And do you imagine, ſays the merchant, that father Abraham will thank you for filling his boſom with a pack of d— ſavages?</p>
             <p>A country gentleman happening to be in com<g ref="char:EOLhyphen"/>pany with ſome witty young ladies in Burlington, who, thinking to have ſome <hi>ſport,</hi> began to joke with him about his occupation; which not being much reliſhed by him, he ſaid, if he had an <hi>acre of ſuch as they were, he ſhould ſoon know how to diſpoſe of them;</hi> this ſpeech exciting their curio<g ref="char:EOLhyphen"/>ſity, he replied, <hi>that he would give the d—l the crop to clear the land.</hi>
             </p>
             <p>Parſon Bate having the chimney of his printing-houſe ſwept, came into the room, and the man's
-<pb n="39" facs="tcp:028656_0038_0FDA3D2344E05E08"/>ſon was holding the bag for his father. How now, ſweep, ſays he, do you intend to bring up your ſon to the trade. Why, replied the ſweep, I can't tell, but if he behaves well and is tracta<g ref="char:EOLhyphen"/>ble, but I might; if not, ſays he, I will make a parſon of him, for <hi>he muſt be a clever fellow to go up a chimney;</hi> but any fool can <hi>read a ſermon</hi> in a pulpit <hi>as well as you Mr. Bate.</hi>
+<pb n="39" facs="unknown:028656_0038_0FDA3D2344E05E08"/>ſon was holding the bag for his father. How now, ſweep, ſays he, do you intend to bring up your ſon to the trade. Why, replied the ſweep, I can't tell, but if he behaves well and is tracta<g ref="char:EOLhyphen"/>ble, but I might; if not, ſays he, I will make a parſon of him, for <hi>he muſt be a clever fellow to go up a chimney;</hi> but any fool can <hi>read a ſermon</hi> in a pulpit <hi>as well as you Mr. Bate.</hi>
             </p>
             <p>A light headed blade walking along the ſtreets, meets with an old decayed gentlewoman, with a gown that by age was worn <gap reason="illegible" resp="#PDCC" extent="1 letter">
                   <desc>•</desc>
@@ -440,12 +442,12 @@ Michael Angelo, in his picture of the laſt judg<g ref="char:EOLhyphen"/>ment, i
             <p>An Iriſhman who lately came to America, made it his conſtant practice to run out againſt every thing that was the production of this country; one day, talking of the <hi>American bees,</hi> ſaid they were nothing like ſo large as the bees were in <hi>Ireland;</hi> one preſent aſked him how large the <hi>Iriſh bees</hi> were? he replied as large as <hi>ſheep;</hi> and how large are their <hi>hives</hi> then? aſked the other. No larger than common, replies Paddy: Ah, ſay<gap reason="illegible" resp="#PDCC" extent="1 letter">
                   <desc>•</desc>
                </gap>
-               <pb n="40" facs="tcp:028656_0039_0FDA3D579A2085B8"/>the other, then how is it poſſible for them to get in and out? Oh, ſays the Hibernian, <hi>they muſt ſec to that themſelves.</hi>
+               <pb n="40" facs="unknown:028656_0039_0FDA3D579A2085B8"/>the other, then how is it poſſible for them to get in and out? Oh, ſays the Hibernian, <hi>they muſt ſec to that themſelves.</hi>
             </p>
             <p>About half a century ago, when it was more the faſhion to drink ale at Oxford than it is at preſent, a humorous fellow of punning memory, eſtabliſhed an ale-houſe near the pound, and wrote over the door, "Ale ſold by the pound." As his ale was as good as his jokes, the Oxonians reſorted to his houſe in great numbers, and ſometimes ſtaid there beyond the college hours. This was made a matter of complaint to the vice-chancellor, who was deſired to take away his licence by one of the proctors of the univerſity. Boniface was ſum<g ref="char:EOLhyphen"/>moned to attend; and when he came into the vice-chancellor's preſence, he began hawking and ſpitting about the room <gap reason="illegible" resp="#PDCC" extent="1 letter">
                   <desc>•</desc>
                </gap> this the chancellor ob<g ref="char:EOLhyphen"/>ſerved, and aſked what he meant by it? Pleaſe your worſhip I came here on purpoſe to <hi>clear</hi> my<g ref="char:EOLhyphen"/>ſelf. The vice-chancellor imagined that he actu<g ref="char:EOLhyphen"/>ally weighed his ale, and ſold it in that manner; he therefore ſaid to him—they tell me that you ſell ale by the pound, is that true? No, replied the wit. How do you then? replied the chan<g ref="char:EOLhyphen"/>cellor:—Very well, I thank you, Sir, replied he, how do you do? The chancellor laughed and ſaid <hi>get away for a raſcal,</hi> I'll ſay no more to you. The fellow departed and paſſing the quadrangle, met the proctor who laid the information. Sir, ſaid he, the vice-chancellor wants to ſpeak with you, and returned with him. Here Sir, ſaid he, here he is.—Who? ſaid the chancellor. <hi>Why
-<pb n="41" facs="tcp:028656_0040_0FDA3D259E89B020"/>Sir,</hi> ſaid he, <hi>you ſent me for a raſcal, and I've brought you the greateſt that I knew of.</hi>
+<pb n="41" facs="unknown:028656_0040_0FDA3D259E89B020"/>Sir,</hi> ſaid he, <hi>you ſent me for a raſcal, and I've brought you the greateſt that I knew of.</hi>
             </p>
             <p>A tall man ſaid to another, conſiderably leſs than himſelf, You can't put your hand upon my head without ſtretching, was anſwered, You can't kiſs my a-ſe without ſtooping.</p>
             <p>A fellow who took a paſſage in a ſtage-boat to New-York with a very old woman, thought he would run his rigs upon her, Well grand-mother ſays he, at what age are old ladies unfit for the works of generation? Indeed ſir, returned ſhe, you muſt aſk one that is <hi>older</hi> than I am.</p>
@@ -453,7 +455,7 @@ Michael Angelo, in his picture of the laſt judg<g ref="char:EOLhyphen"/>ment, i
             <p>Dr. Graham being on his ſtage at Chel<gap reason="illegible" resp="#PDCC" extent="1 letter">
                   <desc>•</desc>
                </gap>sford, in Eſſex, in order to promote the ſale of his me<g ref="char:EOLhyphen"/>dicines, told the country people, that he came there for the good of the public and not for <hi>want;</hi> then ſpeaking to his merry Andrew—Andrew, ſays he, do we come for <hi>want?</hi> No faith, ſir, ſays
-<pb n="42" facs="tcp:028656_0041_0FDA3D5911E09190"/>Andrew, we have <hi>enough of that at home;</hi> beſides, continued he, my maſter has a very great eſtate, but that's neither <hi>here</hi> nor <hi>there.</hi>
+<pb n="42" facs="unknown:028656_0041_0FDA3D5911E09190"/>Andrew, we have <hi>enough of that at home;</hi> beſides, continued he, my maſter has a very great eſtate, but that's neither <hi>here</hi> nor <hi>there.</hi>
             </p>
             <p>One ſeeing his <hi>ſon</hi> in miſchief, cried out, ſirrah, did you ever ſee me do ſo when <hi>I was a boy?</hi>
             </p>
@@ -471,7 +473,7 @@ Michael Angelo, in his picture of the laſt judg<g ref="char:EOLhyphen"/>ment, i
                   </gap>—all guts</hi> gr<gap reason="illegible" resp="#PDCC" extent="1 letter">
                   <desc>•</desc>
                </gap>an for you. I have got the gripe of compaſſion, and the belly-ach of pity.—<hi>Give me a dram!</hi>—Give me a dram—Do, give me a dram—A dram of <hi>patience</hi> I mean, while I explain unto you, what <hi>reformation,</hi> and what <hi>abomination</hi> mean:—which the <hi>worldly wick<g ref="char:EOLhyphen"/>ed</hi>
-               <pb n="43" facs="tcp:028656_0042_0FDA3D26D5BD8188"/>have mixed together like <hi>potatoes</hi> and <hi>butter<g ref="char:EOLhyphen"/>milk</hi> and therewith make a <hi>ſinful ſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
+               <pb n="43" facs="unknown:028656_0042_0FDA3D26D5BD8188"/>have mixed together like <hi>potatoes</hi> and <hi>butter<g ref="char:EOLhyphen"/>milk</hi> and therewith make a <hi>ſinful ſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
                      <desc>•</desc>
                   </gap>ir about. Re<g ref="char:EOLhyphen"/>formation</hi> is like the comely <gap reason="illegible" resp="#PDCC" extent="2 letters">
                   <desc>••</desc>
@@ -516,7 +518,7 @@ Michael Angelo, in his picture of the laſt judg<g ref="char:EOLhyphen"/>ment, i
                </gap>g plays: yes, yes; but you wont pay me: no, no; till Beelz<gap reason="illegible" resp="#PDCC" extent="2 letters">
                   <desc>••</desc>
                </gap>ub's bumbailiffs lay hold of you; and then you think I will pay your garniſh: but I won't. No; you
-<pb n="44" facs="tcp:028656_0043_0FDA3D5D611BAD70"/>ſhall lay on the common ſide of the world: like a toad-in-a-hole, that is baked for the Devil's din<g ref="char:EOLhyphen"/>ner.—Do put ſome money in the plate.—Put ſome money in the plate; and then all your ini<g ref="char:EOLhyphen"/>quities ſhall be ſcalded away; even as they ſcald the briſtles off the hog's back, and you ſhall be cleanſed from all your ſins, as eaſily as the barber ſhaveth away the weakly beard from the <hi>chin</hi> of the ungodly.</p>
+<pb n="44" facs="unknown:028656_0043_0FDA3D5D611BAD70"/>ſhall lay on the common ſide of the world: like a toad-in-a-hole, that is baked for the Devil's din<g ref="char:EOLhyphen"/>ner.—Do put ſome money in the plate.—Put ſome money in the plate; and then all your ini<g ref="char:EOLhyphen"/>quities ſhall be ſcalded away; even as they ſcald the briſtles off the hog's back, and you ſhall be cleanſed from all your ſins, as eaſily as the barber ſhaveth away the weakly beard from the <hi>chin</hi> of the ungodly.</p>
             <lg>
                <l>Do put ſome money in the plate,</l>
                <l>Or I, your preacher, cannot eat:</l>
@@ -530,18 +532,18 @@ Michael Angelo, in his picture of the laſt judg<g ref="char:EOLhyphen"/>ment, i
             <p>
                <hi>The</hi> Parſon <hi>and the</hi> Fowls; <hi>or, the</hi> Maid <hi>too cunning for her</hi> Maſter.</p>
             <p>A rich old bachelor, a clergyman in the coun<g ref="char:EOLhyphen"/>try, having made choice of a pretty young maid to be his houſe-keeper, had ordered upon a cer<g ref="char:EOLhyphen"/>tain Sunday, a couple of fowls to be got read for his dinner, that after he had given his congrega<g ref="char:EOLhyphen"/>tion a little Chriſtian conſolation at church, he might come home and refreſh his tired vitals with a dainty modicum; when the clerk and his loo<g ref="char:EOLhyphen"/>bily aſſiſtants had chimed all in, for about a quar<g ref="char:EOLhyphen"/>ter of an hour, away jogged the ſhepherd to fod<g ref="char:EOLhyphen"/>der his ſheep, and meaſure his time by the hour glaſs, leaving his pretty houſekeeper to prepare
-<pb n="45" facs="tcp:028656_0044_0FDA3D28B1872360"/>the cacklers againſt the accoſtomed time of his return.</p>
+<pb n="45" facs="unknown:028656_0044_0FDA3D28B1872360"/>the cacklers againſt the accoſtomed time of his return.</p>
             <p>The diligent maid, when ſhe thought her ghoſt<g ref="char:EOLhyphen"/>ly maſter had been long enough exalted two de<g ref="char:EOLhyphen"/>grees above his clerk, to get about a quarter of an hour on the right ſide of his text, gueſſed it a very proper time to lay down the fowls, which ſhe did accordingly. As the tidbits were running merrily round before a rouſing fire, who ſhould take the advantage of the parſon's abſence, but his houſekeeper's ſweetheart, who by his pleaſant, comical hoity-toities, and other winning accom<g ref="char:EOLhyphen"/>pliſhments, had ſo wriggled himſelf into her af<g ref="char:EOLhyphen"/>fections, that it is not unreaſonable to think he had as much command as her maſter.</p>
             <p>The maid having miſtaken the time of the day, happened to be a little too early with her cooke<g ref="char:EOLhyphen"/>ry, ſo that the fowls were full ready before the parſon had given his hungry auditory leave to re<g ref="char:EOLhyphen"/>turn home to their puddings and dumplings. The ſweetheart being a fellow of an incomparable ſtomach, thought it a great pity, ſuch good victu<g ref="char:EOLhyphen"/>als ſhould be ſpoiled for want of eating, and very eagerly ſolicited his loving Jug to ſpare him one of the fowls to ſtop a little hole he had in his ap<g ref="char:EOLhyphen"/>petite, telling her one would be ſufficient for her maſter, and that ſhe had wit enough to contrive ſome ſtory or other, handſomely to excuſe the matter, and blind him from the true knowledge of what became of it.</p>
             <p>The maid being willing to oblige her lover, who ſhe found was ſo deſirous to oblige her upon all occaſions, ventured to take up one to ſave the
-<pb n="46" facs="tcp:028656_0045_0FDA3D5E7B5E2A78"/>longing of her ſweetheart who being very well prepared for ſuch a nice entertainment, gobbled it up with ſuch expedition, that before his bene<g ref="char:EOLhyphen"/>factreſs had wound up the jack, he had not ſo much as left the claws which the poor cockral u<g ref="char:EOLhyphen"/>ſed to ſcratch the dunghill withal.</p>
+<pb n="46" facs="unknown:028656_0045_0FDA3D5E7B5E2A78"/>longing of her ſweetheart who being very well prepared for ſuch a nice entertainment, gobbled it up with ſuch expedition, that before his bene<g ref="char:EOLhyphen"/>factreſs had wound up the jack, he had not ſo much as left the claws which the poor cockral u<g ref="char:EOLhyphen"/>ſed to ſcratch the dunghill withal.</p>
             <p>He had no ſooner diſpatched his ſweetheart's firſt courteſy, but he began to be very importu<g ref="char:EOLhyphen"/>nate with her for the ſecond, telling her an ex<g ref="char:EOLhyphen"/>cuſe was as eaſy made for both as for one, and that ſhe had as good be hanged for a ſheep as a lamb; till at laſt, by adding a few melting kiſſes to his ravenous ſolicitations, he prevailed upon her to draw the other off the ſpit, that he might finiſh his meal by robbing the parſon of his Sunday's dinner.</p>
             <p>The ſecond bird being brought before him, he loſt no time, but drove down the former with the latter, without any viſible abatement of either his ſpeed or of his appetite. When he had cleared the diſh, and waſhed all down with a cup of the parſon's beſt beer, he took a thankful leave of his miſtreſs, who now began to be at her wit's end how to excuſe the rudeneſs ſhe had ſo fooliſhly committed.</p>
             <p>As ſhe was thus pondering with herſelf, who ſhould ſtep in but the parſon and a ſtranger with him, who coming from another town to hear him preach, the parſon thought himſelf obliged to in<g ref="char:EOLhyphen"/>vite him home to dinner with him.</p>
             <p>No ſooner had the old Levite conducted his gueſts into the parlour, but he begged his pardon a minute and retired into another room to whet his knife upon the frame of an old table, which
-<pb n="47" facs="tcp:028656_0046_0FDA3D29D54FA870"/>was always his cuſtom before dinner; the maid in a peck of fears and troubles took the advantage in the interim, and ſtepping into the parlour, in a ſtrange ſeeming ſort of diſorder, frightens away her maſter's gueſt with a ſurpriſing ſtory, as fol<g ref="char:EOLhyphen"/>lows, viz. Lord, ſir, how came you to venture yourſelf home with my maſter, at this time of day, when if you had known him, you might have eaſily diſcovered by his countenance, he is in one of his old freaks.—Why, what's the matter with him, ſays the country farmer, he was woundy ci<g ref="char:EOLhyphen"/>vil to me in the church-yard, and by all means would bring me home to dine with him. Alas, good ſir, replied the maid, whatever you do, let me adviſe you to make the beſt of your way out of the houſe, for if you ſtay, now he is in one of his frenzical humours, he will certainly g— you; and I dare ſay, he is whetting his knife for that purpoſe; he has lately ſerved two or three ſo al<g ref="char:EOLhyphen"/>ready, though they have had the diſcretion to keep it ſilent, becauſe they ſhould not be laughed at. I thank thee kindly ſweetheart, cry'd the countryman, are theſe his tricks—wounds, ſhew me the neareſt way out. Upon which the wench ſhewed him out of a back door, and away ran Gaffer as if the devil was at his heels.</p>
+<pb n="47" facs="unknown:028656_0046_0FDA3D29D54FA870"/>was always his cuſtom before dinner; the maid in a peck of fears and troubles took the advantage in the interim, and ſtepping into the parlour, in a ſtrange ſeeming ſort of diſorder, frightens away her maſter's gueſt with a ſurpriſing ſtory, as fol<g ref="char:EOLhyphen"/>lows, viz. Lord, ſir, how came you to venture yourſelf home with my maſter, at this time of day, when if you had known him, you might have eaſily diſcovered by his countenance, he is in one of his old freaks.—Why, what's the matter with him, ſays the country farmer, he was woundy ci<g ref="char:EOLhyphen"/>vil to me in the church-yard, and by all means would bring me home to dine with him. Alas, good ſir, replied the maid, whatever you do, let me adviſe you to make the beſt of your way out of the houſe, for if you ſtay, now he is in one of his frenzical humours, he will certainly g— you; and I dare ſay, he is whetting his knife for that purpoſe; he has lately ſerved two or three ſo al<g ref="char:EOLhyphen"/>ready, though they have had the diſcretion to keep it ſilent, becauſe they ſhould not be laughed at. I thank thee kindly ſweetheart, cry'd the countryman, are theſe his tricks—wounds, ſhew me the neareſt way out. Upon which the wench ſhewed him out of a back door, and away ran Gaffer as if the devil was at his heels.</p>
             <p>He had not been gone a minute, but in comes the parſon with his knife in his hand, and finds the maid ſtamping and ſtorming, as if ſhe was ray<g ref="char:EOLhyphen"/>ing mad in the parlour, with an empty ſineared diſh upon the table, and his gueſt gone. What's the matter now, ſays the parſon, what's the mean<g ref="char:EOLhyphen"/>ing of all this, where is the man gone that I
-<pb n="48" facs="tcp:028656_0047_0FDA3D5FD8C483E0"/>brought home with me? Lord, ſir, replien the <gap reason="illegible" resp="#PDCC" extent="1 word">
+<pb n="48" facs="unknown:028656_0047_0FDA3D5FD8C483E0"/>brought home with me? Lord, ſir, replien the <gap reason="illegible" resp="#PDCC" extent="1 word">
                   <desc>〈◊〉</desc>
                </gap>. I never ſaw ſuch <gap reason="illegible" resp="#PDCC" extent="1 letter">
                   <desc>•</desc>
@@ -570,16 +572,16 @@ Michael Angelo, in his picture of the laſt judg<g ref="char:EOLhyphen"/>ment, i
             <p>When the celebrated Beau Naſh was ill, Doctor Cheyne wrote a preſcription for him. The next day the <gap reason="illegible" resp="#PDCC" extent="1 letter">
                   <desc>•</desc>
                </gap>octor went to ſee his patient, and en<g ref="char:EOLhyphen"/>quired if he had followed his preſcription? "No,
-<pb n="49" facs="tcp:028656_0048_0FDA3DA06149E578"/>ſaith, Doctor, (ſaid Naſh) if I had I ſhould have broke my neck, for I threw it out of a two pair of ſtairs window.</p>
+<pb n="49" facs="unknown:028656_0048_0FDA3DA06149E578"/>ſaith, Doctor, (ſaid Naſh) if I had I ſhould have broke my neck, for I threw it out of a two pair of ſtairs window.</p>
             <p>A child of ſix years of age, being introduced into company for his extraordinary abilities, was aſked by an eminent dignified clergyman, "Where God was?" with the profered reward of an or<g ref="char:EOLhyphen"/>ange. "Tell me, (replied the boy,) where he is not? and I will give you two!"</p>
             <p>Poor Joe Miller going one day along the Strand, an impudent Derby captain came ſwaggering up to him, and thurſt between him and the wall. "I don't chuſe to give the wall, ſaid he, <hi>to every jackanapes.</hi>" "But I do," ſaid Joe; and ſo made way for him.</p>
             <p>A countryman being in London, a friend of his undertook to conduct him to every place that was remarkable, and worthy of obſervation. One day he tells him, that that he would ſhew him Bedlam; it was accordingly agreed upon; but, inſtead of that, he carries him to the door of the houſe of commons, telling him, that was the en<g ref="char:EOLhyphen"/>trance into Bedlam. It happened juſt then, that the houſe was breaking up; and the door being preſently opened, the countryman, to his great aſtoniſhment, ſaw ſeveral of the members haſten<g ref="char:EOLhyphen"/>ing towards it; upon that he immediately takes to his heels, and runs, as it were, for his life: when being ſtopped by ſome perſons, who wondered at his running ſo faſt, "Oh! (cries he,) for the Lord, a ſake don't ſtop me; yonder's Bedlam open, and all the madmen are looſe and coming out"</p>
             <p>
-               <pb n="50" facs="tcp:028656_0049_0FDA3D62DA90EB28"/>
+               <pb n="50" facs="unknown:028656_0049_0FDA3D62DA90EB28"/>
 A domſtic once entering in a fright, the ſtudy of his maſter, who was in deep thought and con<g ref="char:EOLhyphen"/>templation, exclaimed, "Sir the houſe is on fire." "Well (ſaid he) inform my wife of it: I do not interfere in the houſe hold affairs."</p>
             <p>The famous Weſton, of facetious memory, hav<g ref="char:EOLhyphen"/>ing borrowed the ſum of five pounds, and failing in payment, the gentleman who had lent the mo<g ref="char:EOLhyphen"/>ney, took occaſion indiſcreetly to talk of it in the public coffee-houſe, which obliged Weſton to take notice of it; ſo that it came to a challange. Be<g ref="char:EOLhyphen"/>ing got into the field, the gentleman a little ten<g ref="char:EOLhyphen"/>der in the point of courage, offered him the note to make it up, to which our hero readily conſent<g ref="char:EOLhyphen"/>ed, and had the note delivered. But now, ſaid the gentleman, if we ſhould return without fight<g ref="char:EOLhyphen"/>ing, our companions will laugh at us; therefore let us give one another a ſlight ſcratch, and ſay we wounded one another. With all my heart, ſays Weſton, come, I'll wound you firſt; ſo drawing his ſword, he whipt it through the fleſhy part of his antagoniſt's arm, till he brought the tears in his eyes. This done and the wound tied up with a handkerchief; Come, ſaid the gentle<g ref="char:EOLhyphen"/>man, Where ſhall I wound you?—Weſton put<g ref="char:EOLhyphen"/>ting himſelf in a poſture of defence, Where you can, by G—d, Sir." "Well, well, ſays the o<g ref="char:EOLhyphen"/>ther, I can ſwear I received this wound of you;" and ſo marched off contentedly.</p>
             <p>The Emperor Charles V. having wandered up and down for a good while in a foreſt, where he had loſt his way in hunting, found himſelf at laſt
-<pb n="51" facs="tcp:028656_0050_0FDA3DA2181632E0"/>near a public houſe, whither he went to refreſh himſelf. As he came in, he eſpied four fellows, whoſe looks forbode him no good; however, he put a good face upon the matter, ſat down and called for ſomething to eat and drink. The fel<g ref="char:EOLhyphen"/>lows who were lying down and pretended to be aſleep, thought fit to awake. I dreamed, ſaid one of theſe ruffians, coming near the Emperor, "That I was taking off your hat;" and ſo he took it. For my part, ſays another, "I dream<g ref="char:EOLhyphen"/>ed that your great coat would fit me exactly;" and without any more ado, he fairly ſtript him of it. The third paid him the ſame compliment, and ſtripped him of his buff coat. The fourth rogue with the ſame good manners, went about to take from off his neck a gold chain, where a whiſtle was hanging. Hold a little, ſays the Emperor, pu<gap reason="illegible" resp="#PDCC" extent="2 letters">
+<pb n="51" facs="unknown:028656_0050_0FDA3DA2181632E0"/>near a public houſe, whither he went to refreſh himſelf. As he came in, he eſpied four fellows, whoſe looks forbode him no good; however, he put a good face upon the matter, ſat down and called for ſomething to eat and drink. The fel<g ref="char:EOLhyphen"/>lows who were lying down and pretended to be aſleep, thought fit to awake. I dreamed, ſaid one of theſe ruffians, coming near the Emperor, "That I was taking off your hat;" and ſo he took it. For my part, ſays another, "I dream<g ref="char:EOLhyphen"/>ed that your great coat would fit me exactly;" and without any more ado, he fairly ſtript him of it. The third paid him the ſame compliment, and ſtripped him of his buff coat. The fourth rogue with the ſame good manners, went about to take from off his neck a gold chain, where a whiſtle was hanging. Hold a little, ſays the Emperor, pu<gap reason="illegible" resp="#PDCC" extent="2 letters">
                   <desc>••</desc>
                </gap>ing back his hand, before you take this <gap reason="illegible" resp="#PDCC" extent="2 letters">
                   <desc>••</desc>
@@ -590,39 +592,39 @@ A domſtic once entering in a fright, the ſtudy of his maſter, who was in deep
                </gap> now made an end of dreaming whatever they pleaſed; <hi>for my part I have a mind to dream too.</hi> Then having pauſed a while, Well, added he, I have be<gap reason="illegible" resp="#PDCC" extent="2 letters">
                   <desc>••</desc>
                </gap> dreaming that theſe four rare dreamers were a pack of rogues, <hi>and deſerve to be hanged; and I will have my dream out this very minute.</hi> This command was no ſooner given but executed, and
-<pb n="52" facs="tcp:028656_0051_0FDA3D64AC60AC08"/>all the four knaves were, without any more ado, hanged before the door of that neſt of thieves. The old ſaying was varified in the caſe of theſe rogues, <hi>That dreams go by contrarieties.</hi>
+<pb n="52" facs="unknown:028656_0051_0FDA3D64AC60AC08"/>all the four knaves were, without any more ado, hanged before the door of that neſt of thieves. The old ſaying was varified in the caſe of theſe rogues, <hi>That dreams go by contrarieties.</hi>
             </p>
             <p>A country juſtice invited Edwin one day to dinner, with many other perſons; and having a mind to ſhew his wit, took theſe aſide and told them, "Gentlemen, if you'll be ruled by me, we ſhall make ourſelves merry to day with Edwin, who you know ſets up for a jeſter, and drolls up<g ref="char:EOLhyphen"/>on every body. My clerk being ſick a bed, ſo that I have no body to wait on us, I will propoſe to draw cuts, to ſee which of us ſhall go to the cellar to draw the wine, and wait on the reſt whilſt they are at dinner: and I will contrive it ſo, that it ſhall fall to Edwin's lot." Which be<g ref="char:EOLhyphen"/>ing thus concluded amongſt them, was put into execution accordingly. Edwin ſmoaked the plot, and was reſolved to make his hoſt repent it. Down he went to the cellar to fill the bottles, whilſt the others fell too; and being come up a<g ref="char:EOLhyphen"/>gain with the bottles, "You ſee, Gentlemen, ſaid he, how I have performed what I had to do; let us now draw cuts <hi>to ſee which of us ſhall go down into the cellar to ſtop the hogſheads I have left run<g ref="char:EOLhyphen"/>ning.</hi>" Now the juſtice talked no more of caſting lots, and knowing Edwin to be as good as his word, leaves preſently his dinner, and runs to the cellar, where he finds his veſſels running, and part of his wine ſpilt, for which he afterwards expoſtulated with Edwin. You have no reaſon to complain of me, anſwered he, ſince I have punc<g ref="char:EOLhyphen"/>tually
-<pb n="53" facs="tcp:028656_0052_0FDA3DA352E2FDD0"/>complied with the conditions of the play, which indeed obliged me to draw the wine and fill the bottles, <hi>but not to ſtop the Veſſels of a hoſt who entertains a gueſt ſo ſcurvily.</hi>"</p>
+<pb n="53" facs="unknown:028656_0052_0FDA3DA352E2FDD0"/>complied with the conditions of the play, which indeed obliged me to draw the wine and fill the bottles, <hi>but not to ſtop the Veſſels of a hoſt who entertains a gueſt ſo ſcurvily.</hi>"</p>
             <p>The following ſtory is related of the king of Pruſſia. A clergyman of Neufchatel chapel preached againſt eternal d—n. His pariſh<g ref="char:EOLhyphen"/>ioners were ſo diſguſted with him, that they would not afterwards ſuffer him to enter the church-door, nay, they even pelted him. The king hearing of it, ordered the doors to be thrown open to the prieſt, that he might reſume his func<g ref="char:EOLhyphen"/>tion. The parſon now reſumed his ſubject. He would not allow eternal d—n by any means; he had no objection to a limited time, even a hundred thouſand years, but not infinite puniſh<g ref="char:EOLhyphen"/>ment. The pariſhioners would not ſuffer him to go on with his ſermon, but pulled him headlong from his roſtrum, turned him out of the church, and again pelted him. The king ſent for the prieſt, and cenſured him for his abſurdity in reſu<g ref="char:EOLhyphen"/>ming a ſubject ſo noxious to his bearers, and ſaid, "Since my ſubjects of Neufch<gap reason="illegible" resp="#PDCC" extent="3 letters">
                   <desc>•••</desc>
                </gap> are ſo fond of everlaſting d—n, they have my free leave to be d—ned to all eternity."</p>
             <p>At the aſſize of Caernarvon, where judge Bar<g ref="char:EOLhyphen"/>rington preſided, a ſimple Welſhman was tried for ſome petty offence. The judge in an auſtere manner, aſked him, "What are you?" To which the culprit replied, in his ſhire manner, "My Lord, I was ſell ale by the pound!" "Eh,
-<pb n="54" facs="tcp:028656_0053_0FDA3D68C01A2368"/>(ſays the judge, not hearing him diſtinctly) "How do you do, my friend?" "Pretty well, I thank your lordſhip, I hope you are well," replied the ruſtic, with ſuch a ſimplicity in his manner, that threw the court into a fit of laughter that laſted for a quarter of an hour. His lordſhip was as merry as the reſt, and leaned to his caſe in ſuch a manner that he was acquitted.</p>
+<pb n="54" facs="unknown:028656_0053_0FDA3D68C01A2368"/>(ſays the judge, not hearing him diſtinctly) "How do you do, my friend?" "Pretty well, I thank your lordſhip, I hope you are well," replied the ruſtic, with ſuch a ſimplicity in his manner, that threw the court into a fit of laughter that laſted for a quarter of an hour. His lordſhip was as merry as the reſt, and leaned to his caſe in ſuch a manner that he was acquitted.</p>
             <p>When Sir Thomas Moore was ambaſſador from Henry VIII. to the emperor of Morocco, the morning he was to have an audience, he called for a bumper of ſack, drank it, and aſked for ano<g ref="char:EOLhyphen"/>ther; the ſervant would have diſſuaded him from it, but could not; he drank that off, and after<g ref="char:EOLhyphen"/>wards a third; he then inſiſted on a fourth; but being over perſuaded by his ſervant, he let it a<g ref="char:EOLhyphen"/>lone. When he returned from his audience, "You rogue, ſaid he to his man, what miſchief have you done me, I ſpoke ſo well to the empe<g ref="char:EOLhyphen"/>ror, on the inſpiration of the three glaſſes I drank, that he told me I was fit to govern three parts of the world. Now, you ſcoundrel, had I drank the fourth glaſs, I had been fit to govern the whole world."</p>
             <p>One day Socrates, having for a long time en<g ref="char:EOLhyphen"/>dured his wife's brawling, went out of his houſe and ſat down before the door, to rid himſelf of her impertinence. The woman, enraged to find all her ſcolding unable to diſturb his tranquility, flung the contents of a chamber pot on his head. Thoſe that happened to ſee it, laughed heartily at poor Socrates; but that philoſopher told them,
-<pb n="55" facs="tcp:028656_0054_0FDA3DA6437EF560"/>ſmiling, "I thought, indeed, after ſo much thun<g ref="char:EOLhyphen"/>der we ſhould have rain."</p>
+<pb n="55" facs="unknown:028656_0054_0FDA3DA6437EF560"/>ſmiling, "I thought, indeed, after ſo much thun<g ref="char:EOLhyphen"/>der we ſhould have rain."</p>
             <p>That excellent companion the old earl Bathurſt, related the following anecdote: When the cele<g ref="char:EOLhyphen"/>brated actreſs Mrs. Cibber was in Dublin, ſhe ſung in the Oratorio of the Meſſiah. A certain biſhop was ſo ſtruck with the extreme ſenſibility of her manner, that he could not refrain from ſaying, loud enough to be heard by numbers round him, "Woman! thy ſins be forgiven thee!"</p>
             <p>As the late Dean Swift was once upon a jour<g ref="char:EOLhyphen"/>ney, attended by a ſervant, they put up at an inn, where they lodged all night; in the morning the Dean called for his boots; the ſervant immedi<g ref="char:EOLhyphen"/>ately took them to him; when the Dean ſaw them, "How is this Tom, ſays he, my boots are not cleaned?" "No, Sir, replied Tom, as you are going to ride, I thought they would ſoon be dirty again;" "Very well, ſaid the Dean, go and get the horſes ready." In the mean time the Dean ordered the landlord to let his man have no breakfaſt. When the ſervant returned, the Dean aſked if the horſes were ready? "Yes, Sir," ſays the ſervant; "Go bring them out then," ſaid the Dean; "I have not had my breakfaſt yet, Sir," ſays Tom; <hi>"Oh, no matter for that, ſays the Dean, if you had it you would ſoon be hungry again."</hi> They mounted and rode off; as they rode the Dean pulled a book out of his pocket and began to read, a gentleman met them and ſeeing the doctor reading, was not willing to
-<pb n="56" facs="tcp:028656_0055_0FDA3D6BDF4ED4E0"/>diſturb him, but paſſed by till he met the ſervant. "Who is that gentleman?" ſaid he to the ſer<g ref="char:EOLhyphen"/>vant. "It is my maſter, Sir," ſaid Tom. "I know that, you blockhead," ſaid the gentleman, "but where are you going?" "We are going to heaven, Sir," ſays Tom. "How do you know that?" ſaid the gentleman. <hi>"Becauſe I am faſting and my maſter is praying,</hi> Sir, ſo I think we are in the right road."</p>
+<pb n="56" facs="unknown:028656_0055_0FDA3D6BDF4ED4E0"/>diſturb him, but paſſed by till he met the ſervant. "Who is that gentleman?" ſaid he to the ſer<g ref="char:EOLhyphen"/>vant. "It is my maſter, Sir," ſaid Tom. "I know that, you blockhead," ſaid the gentleman, "but where are you going?" "We are going to heaven, Sir," ſays Tom. "How do you know that?" ſaid the gentleman. <hi>"Becauſe I am faſting and my maſter is praying,</hi> Sir, ſo I think we are in the right road."</p>
             <p>Two friends, who had not ſeen each other for a long while, met one day by accident.—"How do you do?" ſays one. "So, ſo, replies the o<g ref="char:EOLhyphen"/>ther, and yet I was married ſince you and I were together."—That is good news."—"Not very good; for it was my lot to chooſe a termagant."—"It is a pity."—"I hardly think it ſo, for ſhe brought me two thouſand pounds."—"Well, there is comfort."—"Not ſo much; for with her fortune I purchaſed a quantity of ſheep, and they are all dead of the rot."—"That is indeed diſtreſſing."—"Not ſo diſtreſſing as you may imagine; for by the ſale of their ſkins I got more than the ſheep coſt me."—"In that caſe you are indemnified."—"By no means; for my houſe and all my money have been deſtroyed by ſire."—"Alas, this was a dreadful misfortune!"—"Faith not ſo dreadful; for my termagant wife and my houſe were burned together."</p>
             <p>Alexander the Great aſked Diomedes a famous pirate, who was brought priſonor to him, "why he was ſo bold as to rob and plunder in his ſeas?" he anſwered, "that he did it for his profit, as
-<pb n="57" facs="tcp:028656_0056_0FDA3DA713D28DF0"/>Alexander himſelf was uſed to do it. But, be<g ref="char:EOLhyphen"/>cauſe I do it with a ſingle galley, <hi>I am called a pirate;</hi> but you, ſir, who do it with a great army, are <hi>called a king.</hi>" This bold anſwer ſo pleaſed Alexander, that he ſet him at liberty.</p>
+<pb n="57" facs="unknown:028656_0056_0FDA3DA713D28DF0"/>Alexander himſelf was uſed to do it. But, be<g ref="char:EOLhyphen"/>cauſe I do it with a ſingle galley, <hi>I am called a pirate;</hi> but you, ſir, who do it with a great army, are <hi>called a king.</hi>" This bold anſwer ſo pleaſed Alexander, that he ſet him at liberty.</p>
             <p>A gentleman having lent a guinea for two or three days to a perſon whoſe promiſes he had not much faith in, was very much ſurprized to find that he very punctually kept his word with him; the ſame gentleman ſometime after was deſirous of borrowing a larger ſum. No, ſaid the other, <hi>you have deceived me once, and I am reſolved you ſhall not do it a ſecond time.</hi>
             </p>
             <p>A gentleman amuſing himſelf in the gallery of the <hi>Pallais,</hi> a place in Paris ſomewhat like what our exchanges formerly were, obſerved while he was careleſsly looking over ſome pamphlets at a bookſellers there, a ſuſpicious fellow ſtood rather too near him: the gentleman was dreſſed, accord<g ref="char:EOLhyphen"/>ing to the faſhion of theſe times, in a coat with a prodigious number of ſilver tags and taſſels: upon which the thief, (for ſuch he was) began to have a deſign; and the gentleman, not willing to diſ<g ref="char:EOLhyphen"/>appoint him, turned his head another way, on purpoſe to give him an opportunity: the thief immediately ſet to work, and, in a trice, twiſted off ſeven or eight of the ſilver tags: the gentle<g ref="char:EOLhyphen"/>man immediately perceived it, and ſlily drawing out of his pocket a penknife, which cut like a ra<g ref="char:EOLhyphen"/>zor, catched the fellow by the ear, and cut it off cloſe to his head. Murder! murder! cries the thief; Robbery! robbery! cries the gentleman<g ref="char:punc">▪</g>
-               <pb n="58" facs="tcp:028656_0057_0FDA3D70094B0F10"/>upon this the thief, in a paſſion, throwing them at the gentleman, "There are your tags and but<g ref="char:EOLhyphen"/>tons!" "Very well, ſays the gentleman, there is your ear," throwing it back in a ſimilar man<g ref="char:EOLhyphen"/>ner."</p>
+               <pb n="58" facs="unknown:028656_0057_0FDA3D70094B0F10"/>upon this the thief, in a paſſion, throwing them at the gentleman, "There are your tags and but<g ref="char:EOLhyphen"/>tons!" "Very well, ſays the gentleman, there is your ear," throwing it back in a ſimilar man<g ref="char:EOLhyphen"/>ner."</p>
             <p>A fellow who had picked up a few ſcraps of the French tongue, and was entirely ignorant of the Latin, accoſted a gentleman with "Quelle heure eſt il Monſieur?" in French, (what is it o'clock, Sir?). To which the gentleman anſwered, "Neſcio," in Latin. (I don't know.) "D—n it, ſaid the fellow, I did not think it was near ſo late;" and ran off, as if he had ſomething of conſequence to do.</p>
             <p>A ſea officer, who for his courage in a former engagement where he had left his leg, had been preferred to the command of a good ſhip; in the heat of the next engagement, a cannon ball took off his wooden deputy, ſo that he fell upon the deck; a ſeaman thinking he had been freſh wounded, called out for a ſurgeon. "No, no, ſaid the captain, the carpenter will do."</p>
             <p>Miſs S—, one of the famous Miſs H—'s fille's-de-joy, in dancing a maſquerade at Carliſle-houſe happened to trip, and fell flat on her back; Foote, who was in a domino, and near her, ſtoop<g ref="char:EOLhyphen"/>ing to pick her up, ſaid "Never mind it, my pretty dear, practice makes perfect."</p>
             <p>A fellow hearing the drums beat up for volun<g ref="char:EOLhyphen"/>teers for France, in the expedition againſt the Dutch, imagined himſelf valiant enough, and thereupon enliſt<gap reason="illegible" resp="#PDCC" extent="2 letters">
                   <desc>••</desc>
                </gap> himſelf; returning again, he
-<pb n="59" facs="tcp:028656_0058_0FDA3DA9AC6AD980"/>was aſked by his friends, what exploits he had done there? he ſaid, that he had cut off one of the enemy's legs; and being told that it had been more honorable and manly to have cut off his head: "Oh! ſaid he, you muſt know that his head was cut off before."</p>
+<pb n="59" facs="unknown:028656_0058_0FDA3DA9AC6AD980"/>was aſked by his friends, what exploits he had done there? he ſaid, that he had cut off one of the enemy's legs; and being told that it had been more honorable and manly to have cut off his head: "Oh! ſaid he, you muſt know that his head was cut off before."</p>
             <p>In the war in Flanders, when the earl of Stair was commander in chief, after a ſevere battle, which laſted from morning till evening, and ter<g ref="char:EOLhyphen"/>minated in favor of the Britiſh troops, a veteran ſoldier, exceſſively fatigued, was reſting on his arms, and looking very grave; Lord Stair coming by, aſked him why he looked ſo dull? "Dull! your honor, I am not dull; I am only thinking what a hard day's work I have done for a groat!"</p>
             <p>Dr. Thompſon was a peculiar ſloven, and in the practice of a phyſician, an utter and declared enemy to muffins, which he always forbad his patients. Being one day upon a viſit to Lord Melcombe, at Hammerſinith, with Mr. Garrick, Mr. P. Whitehead, &amp;c. the company were aſſem<g ref="char:EOLhyphen"/>bled at breakfaſt, long before the doctor appear<g ref="char:EOLhyphen"/>ed: juſt as he entered the room, in an uncouth habit, Lord Melcombe uncovered a plate of muf<g ref="char:EOLhyphen"/>fins, which Thompſon fixing his eyes upon, with ſome indignation ſaid, "My Lord, did not I be<g ref="char:EOLhyphen"/>ſeech your lordſhip before, never to ſuffer a muf<g ref="char:EOLhyphen"/>fin in your houſe?" To which his lordſhip archly replied, "Doctor, I've an utter averſion to muf<g ref="char:EOLhyphen"/>fins and raggamuffins."</p>
             <p>An Iriſh lad was ſent to buy a piece of cheeſe;
-<pb n="60" facs="tcp:028656_0059_0FDA3D72925A6128"/>his fellow ſervants did not like the t<gap reason="illegible" resp="#PDCC" extent="2 letters">
+<pb n="60" facs="unknown:028656_0059_0FDA3D72925A6128"/>his fellow ſervants did not like the t<gap reason="illegible" resp="#PDCC" extent="2 letters">
                   <desc>••</desc>
                </gap>e of it, and deſired him to change it; it was o<gap reason="illegible" resp="#PDCC" extent="1 letter">
                   <desc>•</desc>
@@ -633,10 +635,10 @@ A domſtic once entering in a fright, the ſtudy of his maſter, who was in deep
                   <desc>•</desc>
                </gap>k at it." Upon which the officer took up the book, and conſidering awhile, ſaid, that there only wanted a note of interrogation to make the whole intelligible; which was really the caſe: "and pray, maſter," ſays Pope, qiqued, perhaps, at being cut-done by a red-coat, "what is a note of interrogation?"—"A note of inter<g ref="char:EOLhyphen"/>rogation," replied the youth, with a look of the utmoſt contempt, "is a little crooked thing that aſks queſtions." Tis ſaid, however, that Pope was ſo delighted with the wit, that he forgave the ſarcaſm on his perſon.</p>
             <p>The late Earl of Chatham, who bore no good<g ref="char:EOLhyphen"/>will
-<pb n="61" facs="tcp:028656_0060_0FDA3DAC71B99570"/>to a certain phyſician, was rallying him one day about the inefficacy of his preſcriptions. To which the doctor replied, he defied any of his pa<g ref="char:EOLhyphen"/>tients to find fault with him. "I believe you, replied the witty earl, for they are all dead!"</p>
+<pb n="61" facs="unknown:028656_0060_0FDA3DAC71B99570"/>to a certain phyſician, was rallying him one day about the inefficacy of his preſcriptions. To which the doctor replied, he defied any of his pa<g ref="char:EOLhyphen"/>tients to find fault with him. "I believe you, replied the witty earl, for they are all dead!"</p>
             <p>The mildneſs of Sir Iſaac Newton's temper, through the courſe of his life, commanded admi<g ref="char:EOLhyphen"/>ration from all who knew him, but in no one inſtance perhaps more than the following: Sir Iſaac had a fa<g ref="char:EOLhyphen"/>vorite little dog, which he called Diamond; and being one day called out of his ſtudy into the next room Diamond was left behind. When Sir Iſaac returned, having been abſent but a few minutes, he had the mortification to find, that Diamond hav<g ref="char:EOLhyphen"/>ing thrown down a lighted candle among ſome papers, and the nearly finiſhed labor of many years was in flames, and almoſt conſumed to aſhes. This loſs, as Sir Iſaac was then very far advanced in years, was irretrievable; yet, without once ſtriking the dog, he only rebuked him with this exclamation, "Oh, Diamond! Diamond! thou little knoweſt the miſchief thou haſt done."</p>
             <p>The following incident which occurred in a Caledonian courtſhip, exhibiting the true <hi>ridicu<g ref="char:EOLhyphen"/>lum ſublime,</hi> is as veritable as laughable:—A ſon of medicine (a doctor Shaw) in vital date climac<g ref="char:EOLhyphen"/>terically verging, having purſe as well as perſon in perſpective, breathed out his amorous ſighs to the daughter of a Scorch baronet: the lady, prone to jocularity, ſeemed to liſten to his ſuit ſolely for the reception of that entertainment grey haired folly renders in attempting the cha<g ref="char:EOLhyphen"/>racteristics
-<pb n="62" facs="tcp:028656_0061_0FDA3D7412704E70"/>of juvenility. The doctor one day was to pay a viſit in form to the goddeſs of his idolatry; on this occaſion he was determined to be as Adonis-like in habiliments as poſſible. It is requiſite to be known, that the doctor was a man who ſcorned to be thought of the ſect of Pe<gap reason="illegible" resp="#PDCC" extent="1 letter">
+<pb n="62" facs="unknown:028656_0061_0FDA3D7412704E70"/>of juvenility. The doctor one day was to pay a viſit in form to the goddeſs of his idolatry; on this occaſion he was determined to be as Adonis-like in habiliments as poſſible. It is requiſite to be known, that the doctor was a man who ſcorned to be thought of the ſect of Pe<gap reason="illegible" resp="#PDCC" extent="1 letter">
                   <desc>•</desc>
                </gap>ip<gap reason="illegible" resp="#PDCC" extent="1 letter">
                   <desc>•</desc>
@@ -646,7 +648,7 @@ A domſtic once entering in a fright, the ſtudy of his maſter, who was in deep
                </gap>led diſtance, the doc<g ref="char:EOLhyphen"/>tor proceeded to diſrobe his upper garments; ſ<gap reason="illegible" resp="#PDCC" extent="2 letters">
                   <desc>••</desc>
                </gap>l ſitting on his horſe, his hat, his wig, his coat, and his waiſtcoat, were taken off, and laid on the pummel of the ſaddle; his hands were employed in ſtripping his ſaſſron-hued ſkin-caſe over his head: In this critical moment, malignant fate reigning, his viſual ray preluded by the covering
-<pb n="63" facs="tcp:028656_0062_0FDA3DAF5DDF0C88"/>of his ſhirt, his faithful Pegaſus received affright from ſomewhat in the road, ſet off with the doc<g ref="char:EOLhyphen"/>tor in deminudity, and ran with him in <hi>ſtatu qu<gap reason="illegible" resp="#PDCC" extent="1 letter">
+<pb n="63" facs="unknown:028656_0062_0FDA3DAF5DDF0C88"/>of his ſhirt, his faithful Pegaſus received affright from ſomewhat in the road, ſet off with the doc<g ref="char:EOLhyphen"/>tor in deminudity, and ran with him in <hi>ſtatu qu<gap reason="illegible" resp="#PDCC" extent="1 letter">
                      <desc>•</desc>
                   </gap>
                </hi> (inſtinctively knowing, from frequency in going, his maſter's deſtination) to the door of the very houſe he had hoped to en<gap reason="illegible" resp="#PDCC" extent="1 letter">
@@ -660,7 +662,7 @@ A domſtic once entering in a fright, the ſtudy of his maſter, who was in deep
                   <desc>••</desc>
                </gap> guinea, and then ordered his coachman to drive on; but not before the en<g ref="char:EOLhyphen"/>raged apothecary had ſurveyed the limited recom<g ref="char:EOLhyphen"/>penſe with ſurprize, and exclaimed, in the hearing of the mob, "Ah, you Iriſh bite, I have got ſix and three pence by you now."</p>
             <p>
-               <pb n="64" facs="tcp:028656_0063_0FDA3D78692B5E20"/>
+               <pb n="64" facs="unknown:028656_0063_0FDA3D78692B5E20"/>
 The la<gap reason="illegible" resp="#PDCC" extent="2 letters">
                   <desc>••</desc>
                </gap> 
@@ -673,7 +675,7 @@ The la<gap reason="illegible" resp="#PDCC" extent="2 letters">
             <p>During his Majeſty's laſt painful illneſs, that eminent phyſician, Dr. Zimmerman of Hanover, attended him. One day, when he waited upon his Majeſty, the king ſaid to him, "You have, Sir, I ſuppoſe, helped many into another world." "Not ſo many, replied Zimmerman, as your Majeſty, nor with ſo much honor to myſelf."</p>
             <p>A gentleman in Ireland, remarkable for what is called bulls, was met one day in mourning; "How now, Frank, ſays his acquaintance, who are you in mourning for?" "For my poor wife, honey," anſwers he. "God bleſs me!" ſays the other. "Indeed it is very true, ſays Frank, ſhe would have been three weeks dead, if ſhe had lived till laſt Wedneſday."</p>
             <p>The ſame perſon going to ſee what time of day it was by a dial, which the ſun ſhone very bright
-<pb n="65" facs="tcp:028656_0064_0FDA3DB0EB5A4828"/>upon, his eyes were ſo dazzled, that he could not diſtinguiſh: "Oh! the devil burn theſe fellows, ſays he, why could they not have put this dial in the ſhade?"</p>
+<pb n="65" facs="unknown:028656_0064_0FDA3DB0EB5A4828"/>upon, his eyes were ſo dazzled, that he could not diſtinguiſh: "Oh! the devil burn theſe fellows, ſays he, why could they not have put this dial in the ſhade?"</p>
             <p>Another time being aſked to breakfaſt at a friend's houſe, he excuſed himſelf, becauſe he ne<g ref="char:EOLhyphen"/>ver drank tea; "And pray, ſays ſomebody, what do you uſually take for breakfaſt?" "Vegeta<g ref="char:EOLhyphen"/>bles, ſays he, generally; a beef-ſteak or a m<gap reason="illegible" resp="#PDCC" extent="1 letter">
                   <desc>•</desc>
                </gap>tton<g ref="char:EOLhyphen"/>chop"</p>
@@ -684,7 +686,7 @@ The la<gap reason="illegible" resp="#PDCC" extent="2 letters">
                </gap>e <gap reason="illegible" resp="#PDCC" extent="1 letter">
                   <desc>•</desc>
                </gap>eſ<g ref="char:EOLhyphen"/>tival, was unlucky enough to break a dozen of
-<pb n="66" facs="tcp:028656_0065_0FDA3D79584856D0"/>china plates, of a rare and beautiful pattern. "You blockhead, cries his lordſhip, meeting him preſently after, with another dozen in his hand, how did you do it?" "Upon my ſoul, my lord, they happened to fall juſt ſo," replied the fellow, and inſtantly daſhed them alſo upon the marble hearth into a thouſand pieces.</p>
+<pb n="66" facs="unknown:028656_0065_0FDA3D79584856D0"/>china plates, of a rare and beautiful pattern. "You blockhead, cries his lordſhip, meeting him preſently after, with another dozen in his hand, how did you do it?" "Upon my ſoul, my lord, they happened to fall juſt ſo," replied the fellow, and inſtantly daſhed them alſo upon the marble hearth into a thouſand pieces.</p>
             <p>Two country attornies overtaking a waggoner on the road, and thinking to break a joke upon him, aſked him, Why his fore horſe was ſo fat, and the reſt ſo lean? The waggoner, knowing them to be limbs of the law, anſwered them, "That his fore horſe was a lawyer, and the reſt were his clients."</p>
             <p>Dagger Marr, who was ever wrangling with the managers of Drury-lane theatre, was very fond of taking bread in his pocket, and feeding the ducks in St. James's Park; one day while he thought himſelf unnoticed, he obſerved one of the ducks to ſwim about as ſwift as any three of them, and gobble n<gap reason="illegible" resp="#PDCC" extent="3 letters">
                   <desc>•••</desc>
@@ -693,29 +695,29 @@ The la<gap reason="illegible" resp="#PDCC" extent="2 letters">
                </gap>nd enough to be heard by Garrick, who was not far behind him, "Get out of that you gobbling raſcal, I perceive you are a manager!"</p>
             <p>A gentleman talking of his travels, a lady in company ſaid ſhe had been a great deal farther, and ſeen more countries than he. "Nay, then, madam, replied the gentleman, as travellers, we may <hi>lie</hi> together by authority."</p>
             <p>A perſon about to deſcribe a ſnuff-box he had ſeen, which was an Egyptian pebble ſet in pinch<g ref="char:EOLhyphen"/>beck,
-<pb n="67" facs="tcp:028656_0066_0FDA3DB4FB0DFF08"/>ſaid it was "a gipſy's nipple ſet in pinch<g ref="char:EOLhyphen"/>gut."</p>
+<pb n="67" facs="unknown:028656_0066_0FDA3DB4FB0DFF08"/>ſaid it was "a gipſy's nipple ſet in pinch<g ref="char:EOLhyphen"/>gut."</p>
             <p>A Scotch bag-piper travelling to Ireland, opened his wallet by a wood ſide, and ſat down to din<g ref="char:EOLhyphen"/>ner; no ſooner had he ſaid grace, but three wolves came about him. To one he threw bread, to another meat, till his provender was all gone. At length he took up his pipes, and began to play, at which the wolves ran away. "The deel faw me, ſaid Sawney, and had I ken'd you loo'd muſic ſo weel, you ſhould have haen it before dinner."</p>
             <p>Ben Johnſon being one night at the Devil ta<g ref="char:EOLhyphen"/>vern, there was a country gentleman in the com<g ref="char:EOLhyphen"/>pany, who intearupted all other diſcourſe with an account of his land and tenements; at laſt Ben, unable to bear it longer, ſaid to him, "What ſignifies your dirt and your clods to us? where you have one acre of land I have ten acres of wit." "Have you ſo, ſaid the countryman, good Mr. Wiſe-acre?" This unexpected repartee from the clown, ſtruck Ben quite mute for a time; "Why, how now, Ben, ſaid one of the company, you ſeem to be quite ſtung?" "I never was ſo pricked by a hob-nail before," replied he.</p>
             <p>A lady being ill, ſent for a phyſician, and on his leaving the room, gave a fee of two guineas. This ſhe repeated ſeveral times, and one day ſhe gave him a ſingle guinea. This by ſome accident fell upon the floor, when the doctor picked it up, and turning to the lady, with a ſignificant look, ſaid, "Madam, I believe I have <hi>loſt</hi> a guinea."
-<pb n="68" facs="tcp:028656_0067_0FDA3D7B922F6158"/>"No, doctor, replied the lady, ſmartly, 'twas I who <hi>loſt</hi> the guinea."</p>
+<pb n="68" facs="unknown:028656_0067_0FDA3D7B922F6158"/>"No, doctor, replied the lady, ſmartly, 'twas I who <hi>loſt</hi> the guinea."</p>
             <p>One telling Charles XII. of Sweden, juſt be<g ref="char:EOLhyphen"/>fore the battle of Narva, that the enemy were three to one: "I am glad to hear it, anſwered the king, for then there will be enough to kill, enough to take priſoners, and enough to run away."</p>
             <p>A pert blockhead, who thought himſelf very ſmart, was once in company with doctor Swift, who riſing from his chair in a ſaucy manner, on ſomething he ſaid, "for you muſt know, Mr. Dean, adds he, that I ſet up for a wit. "Do you? ſays the Dean, very gravely, why then, take my advice, and ſit down again."</p>
             <p>Lord Roſs, of Ireland, ſold a gentleman a horſe for a good round ſum, which he took upon his lordſhip's word, that he had no fault. About three weeks after, he meets my lord; "Why, your lordſhip told me, ſays he, that your horſe had no fault, and he is blind of an eye." "Well, Sir, ſays my lord, that's only his misfortune."</p>
             <p>Charles F—, when a boy, delighted in arch tricks. In his walks, one Eaſter Monday, meet<g ref="char:EOLhyphen"/>ing a blind woman, who was crying puddings and pyes, he took her by the arm and ſaid, "Come along with me, dame, I am going to Moorfields, where this holiday time you may chance to meet with good cuſtom." "Thank'e kindly, Sir," ſays ſhe: Whereupon he conducted her to Crip<g ref="char:EOLhyphen"/>ple-gate church, and placed her in the middle aiſle. "Now, ſays he, you are in Moorfields;"
-<pb n="69" facs="tcp:028656_0068_0FDA3DB615FFCE30"/>which ſhe believing to be true, immediately cried out, "Hot puddings and pies! hot puddings and pies! come, they are all hot," &amp;c. which cauſed the congregation to burſt into a loud fit of laugh<g ref="char:EOLhyphen"/>ter, and the clerk came and told her ſhe was in church. "You are a lying ſon of a whore," ſays ſhe. Which ſo enraged the clerk, that he dragged her out of the church; ſhe curſing and damning him all the while; nor would ſhe be<g ref="char:EOLhyphen"/>lieve him till ſhe heard the organ play.</p>
+<pb n="69" facs="unknown:028656_0068_0FDA3DB615FFCE30"/>which ſhe believing to be true, immediately cried out, "Hot puddings and pies! hot puddings and pies! come, they are all hot," &amp;c. which cauſed the congregation to burſt into a loud fit of laugh<g ref="char:EOLhyphen"/>ter, and the clerk came and told her ſhe was in church. "You are a lying ſon of a whore," ſays ſhe. Which ſo enraged the clerk, that he dragged her out of the church; ſhe curſing and damning him all the while; nor would ſhe be<g ref="char:EOLhyphen"/>lieve him till ſhe heard the organ play.</p>
             <p>One Iriſhman meeting another, aſked what was become of their old acquaintance Patrick Murphy? "Arrah, now, my dear honey, an<g ref="char:EOLhyphen"/>ſwered the other, poor Patty was condemned to be hanged, but he ſaved his life by dying in priſon."</p>
             <p>Mrs. Macauly having publiſhed her Looſe Thoughts, Mr. Garrick was aſked if he did not think it a ſtrange title for a lady to chooſe? "By no means, replied he, the ſooner a woman gets rid of ſuch thoughts, the better."</p>
             <p>An Iriſh Lord, who, to ſay a bold word, had as little underſtanding as any man of quality in the three kingdoms, was going down to his coun<g ref="char:EOLhyphen"/>try ſeat, at a time when the road between that and Dublin had been lately meaſured, and mile<g ref="char:EOLhyphen"/>ſtones ſet up; his Lordſhip, who had not been that way ſince this new improvement, was ex<g ref="char:EOLhyphen"/>ceedingly pleaſed with it: now, you are to ob<g ref="char:EOLhyphen"/>ſerve, that, as he came from town, the ſtones were on his right hand; ſo that ſitting in the ſame place of the coach when he returned, they
-<pb n="70" facs="tcp:028656_0069_0FDA3D7F18318EC8"/>were conſequently on his left; upon which, not being able to account for ſo extraordinary a phae<g ref="char:EOLhyphen"/>nomenon, his Lordſhip obſerved this to his Lady, that no doubt the ſtones were very convenient: "However, I think it is taking a needleſs trouble, (ſays he,) to change them from ſide to ſide, every two or three days thus."</p>
+<pb n="70" facs="unknown:028656_0069_0FDA3D7F18318EC8"/>were conſequently on his left; upon which, not being able to account for ſo extraordinary a phae<g ref="char:EOLhyphen"/>nomenon, his Lordſhip obſerved this to his Lady, that no doubt the ſtones were very convenient: "However, I think it is taking a needleſs trouble, (ſays he,) to change them from ſide to ſide, every two or three days thus."</p>
             <p>A common liar, who, to the improvement of his faculty, had been a traveller, was telling very ſtrange ſtories of the remarkable things which he had met with while he was abroad: among the reſt, he ſaid there were cannon ſo large in Egypt, that once being in a calaſh, drawn by four horſes, and a ſudden ſhower of rain falling, he drove in<g ref="char:EOLhyphen"/>to one of them for ſhelter, calaſh and all. "Oh! ſays a gentleman, who was liſtning to him, I can vouch the truth of that myſelf; for I remember I was at the very ſame time at the other end of it in a poſt-chaiſe; and, upon your coming in at the mouth, I drove out at the touch-hole."</p>
             <p>A rich farmer's ſon, who had been bred at the univerſity, coming home to viſit his father and mother, they having one night a couple of fowls for ſupper, he told them, that by logic and arith<g ref="char:EOLhyphen"/>metic, he could prove thoſe two fowls to be three. "Well, let us hear," ſaid the old man. "Why this, cried the ſcholar, is one, and this, continued he, is two, two and one you know make three." "Since you have made it out ſo well, anſwered the old man, your mother ſhall have the firſt fowl, I will have the ſecond, and the third you may keep to yourſelf for you great learning."</p>
             <p>
-               <pb n="71" facs="tcp:028656_0070_0FDA3DB79479C688"/>
+               <pb n="71" facs="unknown:028656_0070_0FDA3DB79479C688"/>
 A juſtice of the peace ſeeing a parſon on a very ſtately horſe, riding between Highgate and Hamp<g ref="char:EOLhyphen"/>ſtead, ſaid to ſome gentlemen who were with him, "Do you ſee what a beautiful horſe that proud parſon has got? I'll banter him a little.—Doc<g ref="char:EOLhyphen"/>tor, ſaid he, you do not follow the example of your Great Maſter, who was humbly content to ride upon an aſs." "Why really, Sir, replied the parſon, the king has made ſo many aſſes juſ<g ref="char:EOLhyphen"/>tices, that an honeſt clergyman can hardly find one to ride, if he had a mind to it."</p>
             <p>One day, during the laſt term, as a certain So<g ref="char:EOLhyphen"/>licitor, of no gentleman-like appearance, was paſ<g ref="char:EOLhyphen"/>ſing through Lincoln's Inn, with his profeſſional bag under his arm, he was accoſted by a Jew, with, <hi>"Clowes to ſell, Sir, old Clowes!"</hi> The law<g ref="char:EOLhyphen"/>yer ſomewhat nettled at this addreſs, from a ſup<g ref="char:EOLhyphen"/>poſition that Moſes miſtook him for an inhabitant of Duke's Place, ſnatched a bundle of papers from their damaſk repoſitory, and replied, "No, Sir, <hi>they are all new ſuits.</hi>"</p>
             <p>A gentleman ſat by another, whom he was ve<g ref="char:EOLhyphen"/>ry little acquainted with, in the pit of Drury-lane play houſe, when ſeeing two women come into a box juſt oppoſite to them, he turned about to his neighbor, and ſaid, "'Sdeath, can you tell me what ugly bitch that is;" "Who, Sir, anſwers the gentleman, that lady coming into the box?" "'Tis my ſiſter;" "Lord Sir, cries the other, greatly confuſed, I beg ten thouſand pardons; no, I mean that ſhocking monſter with her?" "Oh! Sir, anſwers he, that's my wife."</p>
             <p>
-               <pb n="72" facs="tcp:028656_0071_0FDA3D8013D15D40"/>
+               <pb n="72" facs="unknown:028656_0071_0FDA3D8013D15D40"/>
 Mr. Macklin, the comedian, going to one of the fire offices, to <gap reason="illegible" resp="#PDCC" extent="1 letter">
                   <desc>•</desc>
                </gap>nſur<gap reason="illegible" resp="#PDCC" extent="1 letter">
@@ -727,10 +729,10 @@ Mr. Macklin, the comedian, going to one of the fire offices, to <gap reason="ill
             </p>
             <p>When the diſtinguiſhed major Rogers took up his abode in a ſpunging houſe in Southampton buildings, Holborn, like a true philoſopher, he endeavored to make his ſituation as agreeable as poſſible; he therefore one day, out of a whim, ſent cards of invitation to all the bailiffs who fre<g ref="char:EOLhyphen"/>quented the houſe, to come and dine with him. They accordingly came, and being in high ſpirits, after dinner, one of them being called upon for a toaſt, gave, "The d—I ride rough ſhod over the raſcally part of the creation." When every body was going to drink the toaſt, the major (who was at the bottom of the table) cried out, "Stop, gentlemen, every man fill a bumper."—"Oh, there's no occaſion for that," ſays one of the company. "Yes, but there is, ſays the major, conſider it is a family toaſt, and ought to be done juſtice to."</p>
             <p>Lady Vane was at the public rooms in Bath, ſitting on a bench among ſome of her own ſex, when a gentleman came up, and aſked her lady<g ref="char:EOLhyphen"/>ſhip how ſhe did? no ſooner had they heard her name, than all the females about her began im<g ref="char:EOLhyphen"/>mediately to change their places; upon which ſhe
-<pb n="73" facs="tcp:028656_0072_0FDA3DBC4912B548"/>cried after them, "Bleſs me, ladies, don't be frightened, whoring is not catching, I hope."</p>
+<pb n="73" facs="unknown:028656_0072_0FDA3DBC4912B548"/>cried after them, "Bleſs me, ladies, don't be frightened, whoring is not catching, I hope."</p>
             <p>Two ſailors, one Iriſh the other Engliſh, agreed reciprocally to take care of each other, in caſe of either being wounded in an action then about to commence. It was not long before the Engliſh<g ref="char:EOLhyphen"/>man's leg was ſhot off by a cannon-ball; and on his calling to Paddy to carry him to the doctor, according to their agreement, the other very readily complied; but he had ſcarcely got his wounded companion on his back, when a ſecond ball ſtruck off the poor fellow's head. Paddy, who, through the noiſe and diſturbance, common in a ſea engagement, had not perceived his friend's laſt misfortune, continued to make the beſt of his way to the ſurgeon, an officer obſerv<g ref="char:EOLhyphen"/>ing him with a headleſs trunk upon his ſhoulders, aſked him where he was going? "To the doc<g ref="char:EOLhyphen"/>tor," ſays Paddy. "The doctor! ſays the offi<g ref="char:EOLhyphen"/>cer, why you blockhead the man has loſt his head." On hearing this he ſlung the body from his ſhoulders, and looking at it very attent<g ref="char:EOLhyphen"/>ively, "by my ſhoul, ſays he, he told me it was his leg."</p>
             <p>A ſailor coming acroſs Blackheath one evening, was ſtopped by a footpad, who demanded his mo<g ref="char:EOLhyphen"/>ney, when a ſcuffle enſued, the tar took the rob<g ref="char:EOLhyphen"/>ber, who meeting ſome people, who perſuaded him to bear away with his prize to the juſtice of the peace, at Woolwich, which the tar did; and when the magiſtrate came to examine into the aſ<g ref="char:EOLhyphen"/>ſault,
-<pb n="74" facs="tcp:028656_0073_0FDA3D84E44AF848"/>he ſaid, he muſt take his oath, that he put him in bodily fear, otherwiſe he could not commit the man: the ſailor looking ſtedfaſtly at the juſ<g ref="char:EOLhyphen"/>tice, anſwered, "He, d—n him, he put me in bodily fear! No, nor any that ever lived; there<g ref="char:EOLhyphen"/>fore if that is the caſe, you may let him go; for I will not ſwear to any ſuch lie."</p>
+<pb n="74" facs="unknown:028656_0073_0FDA3D84E44AF848"/>he ſaid, he muſt take his oath, that he put him in bodily fear, otherwiſe he could not commit the man: the ſailor looking ſtedfaſtly at the juſ<g ref="char:EOLhyphen"/>tice, anſwered, "He, d—n him, he put me in bodily fear! No, nor any that ever lived; there<g ref="char:EOLhyphen"/>fore if that is the caſe, you may let him go; for I will not ſwear to any ſuch lie."</p>
             <p>A gentleman who happened to ſit in company with Foote at the Smyrna coffee-houſe, took up a newſpaper, ſaying, "he wanted to ſee what the miniſtry were about:" look then among the robberies," ſays Foote.</p>
             <p>A perſon going down the river in a boat, hailed a ſhip as he went by. "Ho! ſays he, have you one wiſe man aboard of you?" To which they anſwered no: "Then, ſays he, you are all fools."</p>
             <p>A gentleman on his travels called his ſervant to the ſide of the poſt-chaiſe. "Tom, ſays he, here is a guinea which is too light, and I can get nobody to take it, do you ſee and part with it ſo<gap reason="illegible" resp="#PDCC" extent="2 letters">
@@ -760,7 +762,7 @@ Mr. Macklin, the comedian, going to one of the fire offices, to <gap reason="ill
                   <desc>•</desc>
                </gap>n his pocket, and never ſaw it."</p>
             <p>
-               <pb n="75" facs="tcp:028656_0074_0FDA3DBEC2A48768"/>
+               <pb n="75" facs="unknown:028656_0074_0FDA3DBEC2A48768"/>
 Jonathan Durrant, who was tried at the late Norfolk aſſizes, for privately ſtealing a bridle from the ſhop of a ſadler, through the humanity of the jury, eſcaped the conſequences of a capital con<g ref="char:EOLhyphen"/>viction by their bringing in a verdict guilty of ſtealing only; upon which, he immediately turned round and thanked them for their lenity, at the ſame time archly adding, "I aſſure you, gentle<g ref="char:EOLhyphen"/>men, I had no uſe for the bridle, I only meant to touch the bit, but I now find I had very nearly got a <hi>halter.</hi>
             </p>
             <p>Lady H— one day ſaid to her Lord, who is much attached to reading, "I wiſh I was a book, that I might always have your company." "Then, anſwered he, I ſhould wiſh you an al<g ref="char:EOLhyphen"/>manack, that I might change once a year."</p>
@@ -775,12 +777,12 @@ Jonathan Durrant, who was tried at the late Norfolk aſſizes, for privately ſt
                   <desc>•</desc>
                </gap>ffrontery and volubility, aroſe and ſaid, "Mr. Speaker, I am very ſorry to find that the honorable gentleman over the way has conceived three times, and brought forth nothing."</p>
             <p>
-               <pb n="76" facs="tcp:028656_0075_0FDA3D86133E1620"/>
+               <pb n="76" facs="unknown:028656_0075_0FDA3D86133E1620"/>
 Pope Sixtus V. while he was cardinal, feigned himſelf broken with age and infirmities, and ſtoop<g ref="char:EOLhyphen"/>ed to exceſs; looking upon this as one probable means of his exaltation to the papal chair. It being obſerved to him ſoon after his election, that he carried himſelf much more erect than he had lately done: "I was looking for the keys of St. Peter, ſaid he, but having found them, I have no longer any occaſion to ſtoop."</p>
             <p>Mr. Pope, who, notwithſtanding his diminutive and misſhapen figure, was not a little vain of his perſon, having aſked Swift what they thought of him in Ireland? "Why, ſaid Swift, they think you are a very little man, but a very great poet." Pope retorted with ſome acrimony, "They think the very reverſe of you in England."</p>
             <p>Colonel Bond, who had been one of King Charles the Firſt's judges, died a day or two be<g ref="char:EOLhyphen"/>fore Cromwell; and it was ſtrongly reported every where, that the Protector was dead<g ref="char:punc">▪</g> "No, ſaid a gentleman, who knew better, he has only given Bond to the devil for his future appearance."</p>
             <p>As a gentleman in one of the coffee-houſes in London, was reading to a group of city politici<g ref="char:EOLhyphen"/>ans, the late famous ſpeech of Lord Shelburne, in which his lordſhip expreſſed his opinion, "That our very woman were able to beat back the French, if they ſhould attempt an invaſion of this country." A naval gentleman immediately jumped up, and ſtriking his fiſt againſt the table, cried, "Right, my boy! I don't doubt it, and I
-<pb n="77" facs="tcp:028656_0076_0FDA3DC015DF5998"/>hope to ſee the day that ſome of the Monſieurs ſhall receive a ſound drubbing from a Britiſh ſhip <hi>manned</hi> with <hi>women.</hi>"</p>
+<pb n="77" facs="unknown:028656_0076_0FDA3DC015DF5998"/>hope to ſee the day that ſome of the Monſieurs ſhall receive a ſound drubbing from a Britiſh ſhip <hi>manned</hi> with <hi>women.</hi>"</p>
             <p>A courtier being ſuſpected of impotency, and always denying the charge, met Benſerade, who had often rallied him on it, and ſaid, "My good Sir, notwithſtanding your precious wit, my wife was yeſterday brought to bed." "What then? ſaid Benſerade, nobody accuſed your wife."</p>
             <p>Among the numerous complaints of the exceſſ<g ref="char:EOLhyphen"/>ive high price of proviſions, a poor Iriſh gentle<g ref="char:EOLhyphen"/>woman, when enumerating her ſufferings, ſaid, "That let a woman be ever ſo well inclined to keep lent, ſhe could not do it on any moderate terms, for they ſold the flour for a pudding at double price, <hi>and did not make the eggs half ſo large as they were uſed to be.</hi>
             </p>
@@ -792,13 +794,13 @@ Pope Sixtus V. while he was cardinal, feigned himſelf broken with age and infir
                   <desc>•</desc>
                </gap>s; and at laſt, as the moment of execution arrived, he aſked the hangman, <hi>"if he had any commands for the other world?"</hi> KETCH, tying the nooſe, very deliberately replied, "<hi>Yes, my friend—I will trouble you with a</hi> LINE.</p>
             <p>A good friar preaching upon the power of God, ſaid he had created nothing but what was perfect in its kind. A hunch-back wag waiting for him at the door, ſaid, "Father, I thank you for your
-<pb n="78" facs="tcp:028656_0077_0FDA3D87C3E0C088"/>ſermon; but do you really think that I, for in<g ref="char:EOLhyphen"/>ſtance, am perfect in my kind?" "Yes, ſaid the father, gravely, a perfect hunch-back, ſurely."</p>
+<pb n="78" facs="unknown:028656_0077_0FDA3D87C3E0C088"/>ſermon; but do you really think that I, for in<g ref="char:EOLhyphen"/>ſtance, am perfect in my kind?" "Yes, ſaid the father, gravely, a perfect hunch-back, ſurely."</p>
             <p>Sir Thomas Moore, on the day that he was beheaded, had a barber ſent to him, becauſe his hair was long, which it was thought would make him more pitied by the people. The barber came to him, and aſked him, "Whether he would pleaſe to be trimmed? "In good faith, honeſt fellow, ſaid Sir Thomas, the king and I have a ſuit for my head; and till the title be cleared, I will do no coſt upon it."</p>
             <p>During the troubles in the reign of king Charles the Firſt, a country girl came up to London in ſearch of a place, as a ſervant maid; but not ſuc<g ref="char:EOLhyphen"/>ceeding, ſhe applied herſelf to carrying out beer from a brew-houſe, and was one of thoſe then called tub-women. The brewer, obſerving a well-looking girl in this low occupation, took her into his family as a ſervant; and after awhile, ſhe behaving herſelf with much prudence and deco<g ref="char:EOLhyphen"/>rum, he married her; but he died when ſhe was yet a young woman, and left her a large fortune. The buſineſs of the brewery was dropped, and the young woman was recommended to Mr. Hyde, (who was afterwards the great earl of Cl<gap reason="illegible" resp="#PDCC" extent="1 letter">
                   <desc>•</desc>
                </gap>rendon) finding the widow's fortune very con<g ref="char:EOLhyphen"/>ſiderable, married her. Of this marriage there was no other iſſue than a daughter, who was af<g ref="char:EOLhyphen"/>terwards the wife of James II. and mother of Mary and Anne, queens of England.</p>
             <p>A gentleman, the firſt time of his coming to
-<pb n="79" facs="tcp:028656_0078_0FDA3DC31563A5A0"/>Bath, was very extravagantly charged for every thing by the perſons in whoſe houſe he lodged, as well as by others whom he had occaſion to deal with; of which, ſome time after, complaining to beau Naſh, "Sir, replied the latter, they have acted towards you on truly Chriſtian principles." "How ſo?" ſays the man. "Why, returned Naſh, you was a ſtranger, and they <hi>took you in.</hi>"</p>
+<pb n="79" facs="unknown:028656_0078_0FDA3DC31563A5A0"/>Bath, was very extravagantly charged for every thing by the perſons in whoſe houſe he lodged, as well as by others whom he had occaſion to deal with; of which, ſome time after, complaining to beau Naſh, "Sir, replied the latter, they have acted towards you on truly Chriſtian principles." "How ſo?" ſays the man. "Why, returned Naſh, you was a ſtranger, and they <hi>took you in.</hi>"</p>
             <p>LOST.</p>
             <p>Suppoſed to be ſtolen from a boarding-ſchool near Turnham Green, a beautiful young lady, aged 16, daughter of the late earl of Froth, and heireſs to £.20,000, independent of her mother's jointure. She was obſerved to walk in the back garden after dinner with Mr. Allemand the dancing-maſter, and is ſuppoſed to have made her eſcape with him through the yew-hedge. She took nothing with her but her miſtreſs's dram bottle out of the beſt china cloſet, the firſt volume of Virtue rewarded, Memoirs of a Woman of Pleaſure, and the Marriage Service torn out of the Common Prayer Book. They are ſuppoſed to be gone to Scotland.</p>
             <p>An Iriſh lawyer, of the Temple, having occaſion to go to dinner, left this direction in the key-hole: "Gone to the Elephant and Caſtle, where you ſhall find me; and if you can't read this, carry it the ſtationers, and he ſhall read it for you."</p>
@@ -808,7 +810,7 @@ Pope Sixtus V. while he was cardinal, feigned himſelf broken with age and infir
                   <desc>•</desc>
                </gap> fighting in the ſhade".</p>
             <p>
-               <pb n="80" facs="tcp:028656_0079_0FDA3D8BD5B66D08"/>
+               <pb n="80" facs="unknown:028656_0079_0FDA3D8BD5B66D08"/>
 Few men would ſucceed in their gallantries if the women were always to conduct themſelves with the prudence of the lady, who being urged by her lover to conſent to his happineſs; anſwered him as follows: "When I was about to be mar<g ref="char:EOLhyphen"/>ried. I took the advice of my parents; now that I am married, I obey my huſband's: go, there<g ref="char:EOLhyphen"/>fore, to him; make your propoſals, and if he con<g ref="char:EOLhyphen"/>ſents, be aſſured that I ſhall have no objection."</p>
             <p>A law-ſuit aroſe in an univerſity, upon the point, Whether the doctors in law, or the doc<g ref="char:EOLhyphen"/>tors in medicine, ſhould hold the precedence? The judge aſked the council. Whether it was uſual for the thief or the hangman to walk firſt at an execution? Being anſwered, <gap reason="illegible" resp="#PDCC" extent="1 letter">
                   <desc>•</desc>
@@ -816,13 +818,13 @@ Few men would ſucceed in their gallantries if the women were always to conduct 
             <p>The Duke Philip of Borgona ſaid, "Of great lords, ſpeak neither well nor ill; becauſe, if you ſpeak well, you lye; and if ill, you are in dan<g ref="char:EOLhyphen"/>ger."</p>
             <p>A gentleman who aſſiſted the Count de Cabra in putting on his armour before a battle, perceiv<g ref="char:EOLhyphen"/>ing him tremble, aſked, what could cauſe this emotion in a man of ſuch known bravery? The Count anſwered, "My fleſh trembles at the dan<g ref="char:EOLhyphen"/>gers into which my ſoul will lead it."</p>
             <p>A girl being deflowered, was bitterly reproach<g ref="char:EOLhyphen"/>ed by her confeſſor, who ſaid ſhe had loſt a trea<g ref="char:EOLhyphen"/>ſure never to be regained. "Ah, ſaid ſhe, how
-<pb n="81" facs="tcp:028656_0080_0FD9BB75BA2A03C0"/>difficult it is to keep this treaſure, when every clown has a key to it?"</p>
+<pb n="81" facs="unknown:028656_0080_0FD9BB75BA2A03C0"/>difficult it is to keep this treaſure, when every clown has a key to it?"</p>
             <p>Two ſcholars being in a tavern, fell a talking, in preſence of their hoſt, of the great Platonic year; in which, they ſaid, after thirty thouſand years, every thing ſhall revert to its former ſtate. The hoſt ſeemed much pleaſed with the novelty of the idea, one of them ſaid to the landlord, that ſeeing every thing was, in thirty thouſand years; to revert to its preſent condition, they hoped he would truſt them till then, and they would pay him moſt faithfully. The hoſt, who was a ſhrewd fellow replied, "Gentlemen, I will truſt you with all my heart; but, as thirty thouſand years ago, you muſt have been juſt this ſum in my debt, I muſt inſiſt on being paid that firſt."</p>
             <p>The archbiſhop of Toledo ſtanding at a win<g ref="char:EOLhyphen"/>dow, and ſeeing a clown beat his aſs moſt unmer<g ref="char:EOLhyphen"/>cifully, opened the caſement, and called out, "Have done, have done, you ſcoundrel, elſe I ſhall have you whipt." The clown anſwered, "Your pardon, good maſter; I did not know my aſs had friends at court."</p>
             <p>A remarkable eater, who piqued himſelf upon devouring as much as ſix other men could manage, was brought before Henry IV. expecting that monarch would make him a preſent to keep his chops a going. The king, who had heard of this hero of the platter, aſked him, if it was true that he could eat as much as ſix? "Yes, Sir," an<g ref="char:EOLhyphen"/>ſwered he. "And do you work in proportion?" added the king. "Sire, replied he, I work a<gap reason="illegible" resp="#PDCC" extent="1 letter">
                   <desc>•</desc>
                </gap>
-               <pb n="82" facs="tcp:028656_0081_0FDA3D8CDB26F938"/>much as any other of my ſtrength and age." "Get along, exclaimed the king, had I ſix ſuch as thee in my kingdom, I ſhould cauſe them all to be hanged, to prevent a famine."</p>
+               <pb n="82" facs="unknown:028656_0081_0FDA3D8CDB26F938"/>much as any other of my ſtrength and age." "Get along, exclaimed the king, had I ſix ſuch as thee in my kingdom, I ſhould cauſe them all to be hanged, to prevent a famine."</p>
             <p>A witty divine receiving an invitation to din<g ref="char:EOLhyphen"/>ner, wrote on the <hi>ten of hearts,</hi> by a young lady of great beauty, merit and fortune. This the gentleman thought a good opportunity to give the lady a diſtant hint of his hopes; he wrote therefore the following lines on the ſame card, and returned it by her own ſervant:
 <q>
                   <l>Your compliments, lady, I pray now forbear,</l>
@@ -836,25 +838,25 @@ Few men would ſucceed in their gallantries if the women were always to conduct 
             <p>The elector of Cologne is likewiſe an archbi<g ref="char:EOLhyphen"/>ſhop. One of the electors ſwearing one day pro<g ref="char:EOLhyphen"/>phanely, aſked a peaſant, who ſeemed to wonder, what he was ſo ſurprized at? "To hear an arch<g ref="char:EOLhyphen"/>piſhop ſwear," anſwered the peaſant. "I ſwear, replied the ele<gap reason="illegible" resp="#PDCC" extent="1 letter">
                   <desc>•</desc>
                </gap>tor, not as an archbiſhop, but as a prince." "But, my lord, ſaid the peaſant, when
-<pb n="83" facs="tcp:028656_0082_0FDA3DC8D8D6DF18"/>the prince goes to the devil what will become of the archbiſhop?"</p>
+<pb n="83" facs="unknown:028656_0082_0FDA3DC8D8D6DF18"/>the prince goes to the devil what will become of the archbiſhop?"</p>
             <p>Silence! keep ſilence in the court! ſaid, one day, an angry judge, why will you not keep ſi<g ref="char:EOLhyphen"/>lence? Here we have judged a dozen cauſes this morning, and have not heard a word of one of them."</p>
             <p>Never did an Iriſhman utter a better bull, than did an honeſt John; who being aſked by a friend, "Has your ſiſter got a ſon or a daughter?" an<g ref="char:EOLhyphen"/>ſwered, "Upon my ſoul, I do not know whether I am an uncle or an aunt."</p>
             <p>A Weſtminſter juſtice taking coach in the city, and being ſet down at Young Man's coffee-houſe, Charing-Croſs, the driver demanded eighteen pence as his fare. The juſtice aſked him, "if he would ſwear that the ground came to the mo<g ref="char:EOLhyphen"/>ney?" The man ſaid, "he would take his oath of it." The juſtice replied, "Friend, I am a magiſtrate;" and pulling the book out of his pocket, adminiſtered the oath; and then gave the fellow his ſix-pence, ſaying, "He muſt reſerve the ſhilling to himſelf for the affidavit."</p>
             <p>Rocheſter, in king Charles the Second's time, was as famous for his frolic and humor, as he was infamous for his vices; one day as he was walking in the park, with ſome of his gay companions, he ſaw Dr. Barrow, one of the greateſt divines, and the greateſt mathematician of his time, muſing along the Mall, in his uſual contemplative man<g ref="char:EOLhyphen"/>ner; and ſo he propoſed to make up to him, and have ſome drollery, as he termed it. His com<g ref="char:EOLhyphen"/>panions
-<pb n="84" facs="tcp:028656_0083_0FDA3D9451AD6BD0"/>were ready enough to attend him; and upon meeting the doctor, Rocheſter, making a very low bow, with great vivacity ſaid, "Doctor, a good morning to you—I am exceeding glad to ſee you—I am your's to the very center of gra<g ref="char:EOLhyphen"/>vity." The doctor, who was not eaſy to be ſur<g ref="char:EOLhyphen"/>prized, perceived his drift, and with all the com<g ref="char:EOLhyphen"/>poſure in the world, returned the lowly bow, and ſaid, "My lord, I am your's to the Antipodes." This put him to a ſhort pauſe; but as wit is ſel<g ref="char:EOLhyphen"/>dom at a loſs—"Doctor, ſays he, I am your's to the loweſt pit of hell."—"There then, replied the doctor, I will leave you."—And ſo purſued his walk.</p>
+<pb n="84" facs="unknown:028656_0083_0FDA3D9451AD6BD0"/>were ready enough to attend him; and upon meeting the doctor, Rocheſter, making a very low bow, with great vivacity ſaid, "Doctor, a good morning to you—I am exceeding glad to ſee you—I am your's to the very center of gra<g ref="char:EOLhyphen"/>vity." The doctor, who was not eaſy to be ſur<g ref="char:EOLhyphen"/>prized, perceived his drift, and with all the com<g ref="char:EOLhyphen"/>poſure in the world, returned the lowly bow, and ſaid, "My lord, I am your's to the Antipodes." This put him to a ſhort pauſe; but as wit is ſel<g ref="char:EOLhyphen"/>dom at a loſs—"Doctor, ſays he, I am your's to the loweſt pit of hell."—"There then, replied the doctor, I will leave you."—And ſo purſued his walk.</p>
             <p>A few days after the late lord L—married the buxom Miſs H. he found it neceſſary to with<g ref="char:EOLhyphen"/>draw from the buſineſs of love for a little while; but not caring to let his wife into the ſecret, he procured a ſubpoena to be ſent to him to attend as an evidence at one of the courts in London; which, ſhewing her, he took leave with ſeeming regret, and ſet forward on his journey, and was abſent about a month. A few days after his re<g ref="char:EOLhyphen"/>turn home, the ſaid nobleman and his lady were looking out at a window, at their cows grazing in a field adjoining: "My dear, ſaid he, what is become of the bull which uſed to be ſo briſk a<g ref="char:EOLhyphen"/>mong the cows here?" Oh! child, ſays ſhe, he's <hi>ſubpoena'd,</hi> I ſuppoſe, <hi>to the other end of the field."</hi>
             </p>
             <p>
                <hi>A Highwayman and Chimney Sweeper; or, No Diſtinction at the Gallows.</hi>
             </p>
             <p>A highwayman and a chimney-ſweeper were
-<pb n="85" facs="tcp:028656_0084_0FDA3DCB18BD2528"/>condemned to be hanged the ſame day at Tyburn, the firſt for an exploit on the highway, the latter for a more ignoble robbery. The highwayman was dreſſed in ſcarlet, and mounted the cart with alacrity; the chimney-ſweeper followed him ſlowly. While the clergyman was praying with fervor, the gay robber was attentive; and the other approached near to his fellow ſufferer to partake of the ſame benefit, but met with a re<g ref="char:EOLhyphen"/>pulſive look from his companion, which kept him at ſome diſtance. But forgetting this angry warning, he preſumed ſtill to come nearer; when the highwayman, with ſome diſdain, ſaid, "Keep farther off, can't you?" "Sir, replied the ſweep, I won't keep off; and let me tell you, I have as much right to be here as you."</p>
+<pb n="85" facs="unknown:028656_0084_0FDA3DCB18BD2528"/>condemned to be hanged the ſame day at Tyburn, the firſt for an exploit on the highway, the latter for a more ignoble robbery. The highwayman was dreſſed in ſcarlet, and mounted the cart with alacrity; the chimney-ſweeper followed him ſlowly. While the clergyman was praying with fervor, the gay robber was attentive; and the other approached near to his fellow ſufferer to partake of the ſame benefit, but met with a re<g ref="char:EOLhyphen"/>pulſive look from his companion, which kept him at ſome diſtance. But forgetting this angry warning, he preſumed ſtill to come nearer; when the highwayman, with ſome diſdain, ſaid, "Keep farther off, can't you?" "Sir, replied the ſweep, I won't keep off; and let me tell you, I have as much right to be here as you."</p>
             <p>A ſilly fop being in company with a lady, and wanting his ſervant, cried out, "Where is my blockhead?" "Upon your ſhoulders," replied the lady.</p>
             <p>A dancer ſaying to a Spartan, "You cannot ſtand ſo long on one leg as I can." "True, an<g ref="char:EOLhyphen"/>ſwered the Spartan, but any gooſe can."</p>
             <p>Curious board at a country hair dreſſers: <hi>ISAAC FAC-TOTUM. Barber, Perriwig-Maker, Surgeon, Pariſh Clerk, Schoolmaſter, Blackſmith, and Man-Midwife.</hi>
             </p>
             <p>Shaves for a penny, cuts hair for two-pence. Young ladies genteelly educated. Lamps highted by the year or quarter. Alſo Pſalm-ſinging and
-<pb n="86" facs="tcp:028656_0085_0FDA3D8E76B1D8A8"/>horſe-ſhoeing by the real maker. Likewiſe makes and mends all ſorts of boots and ſhoes, teaches the hoboy and Jew's harp, cuts corns, bleeds and bliſters on the loweſt terms. Cowtilions and other dances, taught at home or abroad. Alſo deals wholeſale and retail. Sells all ſorts of ſtationary ware, together with blacking-balls, red herrings, fine gingerbread, coals, ſcrubbing-bruſhes, treacle, mouſe traps, and all other ſorts of ſweet-meats. N. B. I teach Jografy, and them out-landiſh kind of things. A ball on Wedneſdays and Fridays. All performed (God willing) by me, <hi>Iſaac Fac-Totum.</hi>
+<pb n="86" facs="unknown:028656_0085_0FDA3D8E76B1D8A8"/>horſe-ſhoeing by the real maker. Likewiſe makes and mends all ſorts of boots and ſhoes, teaches the hoboy and Jew's harp, cuts corns, bleeds and bliſters on the loweſt terms. Cowtilions and other dances, taught at home or abroad. Alſo deals wholeſale and retail. Sells all ſorts of ſtationary ware, together with blacking-balls, red herrings, fine gingerbread, coals, ſcrubbing-bruſhes, treacle, mouſe traps, and all other ſorts of ſweet-meats. N. B. I teach Jografy, and them out-landiſh kind of things. A ball on Wedneſdays and Fridays. All performed (God willing) by me, <hi>Iſaac Fac-Totum.</hi>
             </p>
             <p>The following is a true copy of a Painter's bill, at Cirenceſter, delivered to the Church-ward<g ref="char:EOLhyphen"/>ens of an adjoining pariſh:</p>
             <floatingText type="letter">
@@ -871,7 +873,7 @@ Few men would ſucceed in their gallantries if the women were always to conduct 
             <p>Curious inſcription at Wigan in Lancaſhire: "James Williams, Pariſh Clerk, Saxtone, Town-Cryer, and Bellman—makes and ſells all ſorts of haberdaſharies, groceries, &amp;c. likewiſe hair and wigs dreſt, and cut, on the ſhorteſt notice. N. B. I keeps an evening ſchool, where I teach at reaſonable rates, reading, writing and ſinging.</p>
             <p>N. B. I play the hooboy occaſionally, if wanted.</p>
             <p>
-               <pb n="87" facs="tcp:028656_0086_0FDA3DCCC385B008"/>
+               <pb n="87" facs="unknown:028656_0086_0FDA3DCCC385B008"/>
 N. B. My ſhop is next door, where I bleed, draweth, and ſhoo horſes with the greateſt ſcil.</p>
             <p>N. B. Children taught to dance, if agreeable, at 6<abbr>d.</abbr> per week, by me J. Williams, who buy and ſell old iron and coals—<gap reason="illegible" resp="#PDCC" extent="2 letters">
                   <desc>••</desc>
@@ -896,7 +898,7 @@ N. B. My ſhop is next door, where I bleed, draweth, and ſhoo horſes with the 
                </gap>llows out of the town, near Norwich, many boys ran to ſee the execution; which he ſeeing, ca<gap reason="illegible" resp="#PDCC" extent="1 letter">
                   <desc>•</desc>
                </gap>ed to them, ſay<g ref="char:EOLhyphen"/>ing,
-<pb n="88" facs="tcp:028656_0087_0FDA3D911441AF28"/>"Boys, you need not make ſo much haſte, for there will be no ſport till I come."</p>
+<pb n="88" facs="unknown:028656_0087_0FDA3D911441AF28"/>"Boys, you need not make ſo much haſte, for there will be no ſport till I come."</p>
             <p>Mr. Edmund Burke, the Iriſh orator, was tell<g ref="char:EOLhyphen"/>ing Mr. Garrick, one day at Hampton, that all <hi>bitter</hi> things were <hi>hot;</hi> "Ay, ſays Mr. Garrick, what do you think, Mr. Burke, of <hi>bitter cold weather?</hi>"</p>
             <p>A young fellow was extolling a lady's beauty very highly, and one of his companions allowed ſhe had beauty, but that ſhe had a bad ſet of teeth. "Very true, but ſhe is a fine woman <hi>in ſpite of her teeth.</hi>"</p>
             <p>The other day a captain of a veſſel, had a quan<g ref="char:EOLhyphen"/>tity of coals to put on board; as a great number lay ſcattered about the wharf, he thought it were beſt to have a <gap reason="illegible" resp="#PDCC" extent="1 letter">
@@ -904,7 +906,7 @@ N. B. My ſhop is next door, where I bleed, draweth, and ſhoo horſes with the 
                </gap>ake, that they might more ſpeedily collect them together. He went himſelf into a counting-houſe and enquired of the merchant, whether he could have tho loan of a rake for a few minutes. The merchant ſmiled, and looking ſignificantly round at his clerks, ſaid, "I believe I have a number of them, but not one that will readily anſwer your purpoſe." The captain, comprehending the pun, very wittily replied, "I think you are quite right, ſir, for neither of them, I ſuppoſe, would wiſh to be <hi>hauled over the coals.</hi>
             </p>
             <p>At the commencement of the late war, the very women became deſirous to ſignalize the zeal they felt in their country's cauſe. At a meeting of the gentlewomen belonging to the county of Briſtol, in Pennſylvania, they made a large col<g ref="char:EOLhyphen"/>lection of money, to fit out a regiment raiſing
-<pb n="88" facs="tcp:028656_0088_0FDA3DCF2157DBB0"/>there, and wrought a magnificent ſuit of colours for their uſe, with devices and <gap reason="illegible" resp="#PDCC" extent="2 letters">
+<pb n="88" facs="unknown:028656_0088_0FDA3DCF2157DBB0"/>there, and wrought a magnificent ſuit of colours for their uſe, with devices and <gap reason="illegible" resp="#PDCC" extent="2 letters">
                   <desc>••</desc>
                </gap>ottos of their own compoſing. The gentlewoman who was ap<g ref="char:EOLhyphen"/>pointed by the others to preſent them in their name to the regiment, made a very gallant and ſpirited ſpeech on that occaſion, which ſhe conclu<g ref="char:EOLhyphen"/>ded by giving it in charge to the officers and ſol<g ref="char:EOLhyphen"/>diers, never to deſert the <hi>colours of the ladies,</hi> if they ever wiſhed, that the ladies ſhould liſt <hi>under their</hi> banners.</p>
             <p>Sir George Rooke, before he was made admi<g ref="char:EOLhyphen"/>ral, had ſerved as a captain of marines upon their firſt eſtabliſhment; and being quartered upon the coaſt of Eſſex, the ague made great havoc amongſt his men. The miniſter of the village where he lay was ſo harraſſed with his duty, that he refuſed to bury any more of them, without being paid his accuſtomed fees. The captain made no words; but the next that died, he ordered him to be con<g ref="char:EOLhyphen"/>veyed to the miniſter's houſe, and laid upon the table in his great hall: this greatly embarraſſed the poor clergyman; who, in the fullneſs of his heart, ſent the captain word, "That if he would cauſe the dead man to be taken away, he would never more diſpute it with him; but would rea<g ref="char:EOLhyphen"/>dily bury <hi>him</hi> and his <hi>whole company</hi> for nothing."</p>
@@ -917,7 +919,7 @@ N. B. My ſhop is next door, where I bleed, draweth, and ſhoo horſes with the 
 <gap reason="missing" extent="11 pages">
                   <desc>〈11 pages missing〉</desc>
                </gap>
-               <pb n="100" facs="tcp:028656_0089_0FDA3D92150C3EA0"/>time, one of his moſt intimate friends and deareſt companions, propoſed to the knight to pay a viſit to his lady in his abſence, with a view to divert her in her retirement, until the arrival of her huſband. The knight not only gave his propoſal a friendly reception, but gave him the following introductory bill, addreſſed to his lady:
+               <pb n="100" facs="unknown:028656_0089_0FDA3D92150C3EA0"/>time, one of his moſt intimate friends and deareſt companions, propoſed to the knight to pay a viſit to his lady in his abſence, with a view to divert her in her retirement, until the arrival of her huſband. The knight not only gave his propoſal a friendly reception, but gave him the following introductory bill, addreſſed to his lady:
 <floatingText type="letter">
                   <body>
                      <opener>
@@ -937,10 +939,10 @@ N. B. My ſhop is next door, where I bleed, draweth, and ſhoo horſes with the 
                   <desc>•</desc>
                </gap>ers, becauſe the leaſt touch will ſully it.</p>
             <p>A number of Iriſh gentlemen coming on a party of pleaſure to London, a few weeks ſince, were becalmed midway between the harbor of Dublin and Parkgate. After ſurveying for ſome
-<pb n="101" facs="tcp:028656_0090_0FDA3DD057AD3FB0"/>time the watery expanſe, they had recourſe to that which is the general refuge in the moments of ſuſpence or difficulty, and a potent bowl of punch was ordered in the cabin. To that they were no ſooner ſeated, than, ſtill warm with re<g ref="char:EOLhyphen"/>cent patriotiſm, they characteriſtically drank, "The land we live in, and proſperity to it."</p>
+<pb n="101" facs="unknown:028656_0090_0FDA3DD057AD3FB0"/>time the watery expanſe, they had recourſe to that which is the general refuge in the moments of ſuſpence or difficulty, and a potent bowl of punch was ordered in the cabin. To that they were no ſooner ſeated, than, ſtill warm with re<g ref="char:EOLhyphen"/>cent patriotiſm, they characteriſtically drank, "The land we live in, and proſperity to it."</p>
             <p>Lord Mansfield, being in one of the counties, on the circuit, a poor woman was indicted for witchcraft. The inhabitants of the place were exaſperated againſt her. Some witneſſes depoſed, that they had ſeen her walk in the air, with her feet upwards and her head downwards. Lord Mansfield heard the evidence with great tran<g ref="char:EOLhyphen"/>quility, and perceiving the temper of the people, whom it would not have been prudent to irritate, he thus addreſſed them: "I do not doubt that this woman has walked in the air, with her feet upwards, ſince you have all ſeen it; but ſhe has the honor to be born in England as well as you and I, and conſequently, cannot be judged but by the laws of the country, nor puniſhed but in pro<g ref="char:EOLhyphen"/>portion as ſhe has violated them. Now I know not one law that forbids walking in the air with the feet upwards. We have all a right to do it with impunity. I ſee no reaſon, therefore, for proſecution; and this poor woman may return home when ſhe pleaſes."—I his ſpeech had its proper effect: it pleaſed the auditory, and the woman retired from court without moleſtation.</p>
             <p>During the late war, when draughts were made from the militia, to recruit the continental army,
-<pb n="102" facs="tcp:028656_0091_0FDA3D986AC591D8"/>a certain captain gave liberty to the men, who were draughted from his company, to make their objections, if they had any, againſt going into the ſervice. Accordingly, one of them, who had an impediment in his ſpeech, came up to the captain, and made his bow. "What is your objection?" ſaid the captain. "I ca a-an't go, anſwers the man, becauſe I ſt-ſt-ſtutter." "Statter! ſays the captain; you don't go there to talk but to fight." "Aye, but they'll p-p-put me upon g-g-guard, and a man may go ha-ha-half a mile be<g ref="char:EOLhyphen"/>fore I can ſay, Wh-wh-who goes there?"—"Oh, that is no objection, for they will place ſome other ſentry with you, and he can challenge, if you can fire." "Well, b-b-but I may be ta-ta-ken, and run through the g-g guts, before I can cry qu-qu-quarter." This laſt plea prevailed, and the captain out of humanity, (laughing heart<g ref="char:EOLhyphen"/>ily) diſmiſſed him.</p>
+<pb n="102" facs="unknown:028656_0091_0FDA3D986AC591D8"/>a certain captain gave liberty to the men, who were draughted from his company, to make their objections, if they had any, againſt going into the ſervice. Accordingly, one of them, who had an impediment in his ſpeech, came up to the captain, and made his bow. "What is your objection?" ſaid the captain. "I ca a-an't go, anſwers the man, becauſe I ſt-ſt-ſtutter." "Statter! ſays the captain; you don't go there to talk but to fight." "Aye, but they'll p-p-put me upon g-g-guard, and a man may go ha-ha-half a mile be<g ref="char:EOLhyphen"/>fore I can ſay, Wh-wh-who goes there?"—"Oh, that is no objection, for they will place ſome other ſentry with you, and he can challenge, if you can fire." "Well, b-b-but I may be ta-ta-ken, and run through the g-g guts, before I can cry qu-qu-quarter." This laſt plea prevailed, and the captain out of humanity, (laughing heart<g ref="char:EOLhyphen"/>ily) diſmiſſed him.</p>
             <p>A poor fellow in Dublin ſome time ſince, was taken up for ſtealing a bo<gap reason="illegible" resp="#PDCC" extent="1 letter">
                   <desc>•</desc>
                </gap>led leg of mutton, and was caught eating it. When he was put to the bar, lord Earlsfort aſked of what profeſſion he was? The priſoner replied<g ref="char:punc">▪</g> a <hi>Barriſter.</hi> "Pray, continued his lordſhip, how came you to the bar?" "In the ſame manner, ſays the fellow, that you did—I <hi>eat</hi> my way to it."</p>
@@ -949,7 +951,7 @@ N. B. My ſhop is next door, where I bleed, draweth, and ſhoo horſes with the 
                </gap>bb<gap reason="illegible" resp="#PDCC" extent="1 letter">
                   <desc>•</desc>
                </gap>n, being one of thoſe who could never find ſo good a reliſh in the bitt as in a mouthful of good clover, not ſeem<g ref="char:EOLhyphen"/>ing to reliſh the idea, led his honeſt maſter a moſt
-<pb n="103" facs="tcp:028656_0092_0FDA3DD203102A18"/>tireſome dance ſeveral times round the field, and that <hi>perhaps</hi> without once conſidering that his maſter might poſſibly be in a hurry, which in fact h<gap reason="illegible" resp="#PDCC" extent="1 letter">
+<pb n="103" facs="unknown:028656_0092_0FDA3DD203102A18"/>tireſome dance ſeveral times round the field, and that <hi>perhaps</hi> without once conſidering that his maſter might poſſibly be in a hurry, which in fact h<gap reason="illegible" resp="#PDCC" extent="1 letter">
                   <desc>•</desc>
                </gap> was, his buſineſs being that of going for a phyſician. The man at length that he might not run himſelf to death after ſuch an <hi>ungrateful brute,</hi> betook himſelf to ſtratagem, and made of ſome rails which happened to be handy, a long narrow pen in one corner of the field, into which he ſuc<g ref="char:EOLhyphen"/>ceeded in driving Dobbin, "Now ſaid the farmer, I have you ſafe enough," and went in after him, but while he was putting on the bridle, the horſe ſtill unwilling to yield, threw himſelf furiouſly round and got away again, but not without throwing his maſter uncivilly among the rails, which bruiſed him not a little, and ſet him to ſwearing; who in the height of his paſſion threw the bridle after the horſe ſaying—<hi>"Go to h<gap reason="illegible" resp="#PDCC" extent="1 letter">
                      <desc>•</desc>
@@ -960,7 +962,7 @@ N. B. My ſhop is next door, where I bleed, draweth, and ſhoo horſes with the 
                </gap>ti<gap reason="illegible" resp="#PDCC" extent="1 letter">
                   <desc>•</desc>
                </gap> having broke looſe from his cell, ran up into the third ſtory of the hoſpital unobſerved, and took refuge in a cham<g ref="char:EOLhyphen"/>ber appropriated to the uſe of the phyſicians. One of the medical ſtudents happening to enter the room ſhortly after was ſtruck with ſurprize at the appearance of the lunatic, who abruptly ac<g ref="char:EOLhyphen"/>coſted him with a look of deſperation, "Jump immediately out of that window, ſirrah, or I'll throw you out." "Oh, that would be a mere trifle, anſwered the ſtudent compoſedly but, con<g ref="char:EOLhyphen"/>tinued he, very earneſtly, if you will let me go below I will perform a much greater wonder. I will then jump into the window." The lunatic
-<pb n="104" facs="tcp:028656_0093_0FDA3D9994A0B360"/>beholding him with eyes of aſtoniſhment and cre<g ref="char:EOLhyphen"/>dulity, b<gap reason="illegible" resp="#PDCC" extent="1 letter">
+<pb n="104" facs="unknown:028656_0093_0FDA3D9994A0B360"/>beholding him with eyes of aſtoniſhment and cre<g ref="char:EOLhyphen"/>dulity, b<gap reason="illegible" resp="#PDCC" extent="1 letter">
                   <desc>•</desc>
                </gap>de him go, and by this fortunate turn of expreſſion he ſaved his life.</p>
             <p>Two ſailors, who were travelling one fall to Philadelphia, ſtopped on the road at the inn of an hiſtorical old gentleman, a diſtant relation of Ba<g ref="char:EOLhyphen"/>ron Munchauſen, and called for a dinner. In the interim our hoſt broached his magazine of miracles, and informed our roving tars, that had they arrived ſooner he could have ſhewn them the greateſt wonder in the known world. "I was bleſſed this year, ſaid he, with ſuch a miraculous and luxuriant crop of Indian corn, that in plough<g ref="char:EOLhyphen"/>ing it I was obliged to have a candle carried be<g ref="char:EOLhyphen"/>fore me at noon day, in order to light me along the furrows, for ſuch was the darkneſs occaſioned by the monſtrous leaves of corn. When huſking time came on, the corn had grown to ſuch an amazing height, that I was under the neceſſity of having ladders erected againſt the ſtalks before I could have it gathered." "By St. Chriſtopher, replied one of the tars, who was not inclined to be out done, that is not half ſo great a wonder as we have ſeen, for before our late arrival on the American coaſt, we were overtaken by ſuch a hard gale of wind, that it took ten men to hold one man's hair upon his head."</p>
@@ -968,7 +970,7 @@ N. B. My ſhop is next door, where I bleed, draweth, and ſhoo horſes with the 
                      <desc>•</desc>
                   </gap>
                </hi>
-               <pb n="105" facs="tcp:028656_0094_0FDBBEACC41760E8"/>ſituation, and as he had a ſtrong beard, thinking to make him appear ludicrous, ſhaved it but half off. When this was done the gentleman aroſe and viewing himſelf in the glaſs, exclaimed, Why—why you d—n'd raſ—raſcal you have but half ſhaved me. No, ſir, replied the barber, I thought there was no occaſion to do more, for you was <hi>half ſhaved</hi> when you came.</p>
+               <pb n="105" facs="unknown:028656_0094_0FDBBEACC41760E8"/>ſituation, and as he had a ſtrong beard, thinking to make him appear ludicrous, ſhaved it but half off. When this was done the gentleman aroſe and viewing himſelf in the glaſs, exclaimed, Why—why you d—n'd raſ—raſcal you have but half ſhaved me. No, ſir, replied the barber, I thought there was no occaſion to do more, for you was <hi>half ſhaved</hi> when you came.</p>
             <p>One ſailor coming to ſee another one pay-day, deſired to borrow twenty ſhillings of him: The monied man fell to telling out the ſum in ſhillings, but a half-crown thruſting its head in, put him out, and he began to tell again: but then an im<g ref="char:EOLhyphen"/>pertinent crown-piece was as officious as his half-brother had been, and again interrupted the tale; ſo that taking up a handful of ſilver, he cried, "Here Jack, give me a handful when your ſhip's paid; <hi>what a pox ſignifies counting it?</hi>"</p>
             <p>During a converſation between a certain knight of biographic fame (Sir John Hawkins) and a ce<g ref="char:EOLhyphen"/>lebrated female friend of Dr. Johnſon, the lady diſapproved of the greater part of thoſe certainly reprehenſible memoirs. "At leaſt, Madam," anſwered the writer, "you <hi>muſt</hi> allow that they are <hi>paſſable.</hi>" "I thank <hi>you</hi> for <hi>that</hi> word," re<g ref="char:EOLhyphen"/>plied the fair cenſurer; "they are <hi>paſſable</hi> in <hi>every</hi> point of examination. <hi>You</hi> might have <hi>paſ<g ref="char:EOLhyphen"/>ſed over</hi> the compilation of them; <hi>we</hi> might have <hi>paſſed over</hi> the peruſal of them, and <hi>they</hi> will <hi>paſs over</hi> to o<gap reason="illegible" resp="#PDCC" extent="1 letter">
                   <desc>•</desc>
@@ -977,7 +979,7 @@ N. B. My ſhop is next door, where I bleed, draweth, and ſhoo horſes with the 
 <gap reason="missing" extent="2 pages">
                   <desc>〈2 pages missing〉</desc>
                </gap>
-               <pb n="108" facs="tcp:028656_0095_0FDA3D9E4645CA08"/>that one of his creditors wiſhed, ſince he had no chance of receiving the <hi>principal</hi> of his debt, to be at leaſt paid the <hi>intereſt</hi>—replied with more <hi>wit</hi> than <hi>honor</hi>—<gap reason="illegible" resp="#PDCC" extent="1 letter">
+               <pb n="108" facs="unknown:028656_0095_0FDA3D9E4645CA08"/>that one of his creditors wiſhed, ſince he had no chance of receiving the <hi>principal</hi> of his debt, to be at leaſt paid the <hi>intereſt</hi>—replied with more <hi>wit</hi> than <hi>honor</hi>—<gap reason="illegible" resp="#PDCC" extent="1 letter">
                   <desc>•</desc>
                </gap>'It is not my <hi>intereſt</hi> to pay the <hi>principal</hi>—nor is it my <hi>principle</hi> to pay the <hi>in<g ref="char:EOLhyphen"/>tereſt.</hi>"</p>
             <p>A worthy old gentleman in New-Jerſey, hav<g ref="char:EOLhyphen"/>ing a numerous family, conſiſting chiefly of boys, and many of them grown up, was ſorry to find that none of them inclined to ſhift for themſelves, but preferred lounging at home with their mam<g ref="char:EOLhyphen"/>ma, who was extremely fond of them—The old gentleman coming home one cold evening, and not one of the family, (who were all wedged in round the fire,) moving to make room for him, he ſtood ſtill a few moments, and then deſired his wife to go up ſtairs and bring him down his beſt ſuit—ſhe much ſurprized, enquired the cauſe, and heſitated till he repeated the requeſt ſeveral times—ſhe then brought them, when he very de<g ref="char:EOLhyphen"/>liberately began to pull off the clothes he had on, ſaying at the ſame time, <hi>"I'll go and ſpark ſome<g ref="char:EOLhyphen"/>body, and try to get another home, ſince none of the reſt of you will.<g ref="char:punc">▪</g>
@@ -986,12 +988,12 @@ N. B. My ſhop is next door, where I bleed, draweth, and ſhoo horſes with the 
             <p>Some ſcholars, on a time, going to ſteal, by the way they warned a novice amongſt them to make no noiſe, for fear of ſpoiling the game; but he no ſooner eſpied ſome of them, than he cried out aloud, <hi>Ecce cuniculi multi;</hi> whereupon the conies ran with all ſpeed into their burrows; on which his fellows chiding him—<hi>Who the devil,</hi> ſaid he, <hi>would have thought thot conies underſtood Latin?</hi>
             </p>
             <p>
-               <pb n="109" facs="tcp:028656_0096_0FDA3DD3583AC628"/>
+               <pb n="109" facs="unknown:028656_0096_0FDA3DD3583AC628"/>
 A quaker came before two judges at an aſſize in Ireland, as a witneſs, when he made frequent uſe of the words <hi>alſo</hi> and <hi>likewiſe:</hi> "Prithee man, cried one of their lordſhips, why do you vary theſe words ſo often, have not they both the ſame ſigni<g ref="char:EOLhyphen"/>fication? "No truly, ſaid the quaker, their mean<g ref="char:EOLhyphen"/>ing is very different: as for example, Serjeant Bettſworth is a judge upon this bench, thou art one <hi>alſo,</hi> but not <hi>like wiſe.</hi>"</p>
             <p>A ſoldier ſtood upon the ſtage at the play of Don Carlos prince of Spain, which affected him ſo much, that he burſt into a violent paſſion of tears; and the duke of York, (afterwards king James the ſecond) who happened to be at the theatre, was ſo pleaſed with the fellow's ſenſibi<g ref="char:EOLhyphen"/>lity, that he ſent him five guineas: the next night the duke was at the play again, which was the comedy of Rule a Wife and have a Wife; when the centinel upon the ſtage, who had heard how liberally his comrade's weeping had been reward<g ref="char:EOLhyphen"/>ed, began to blubber and cry in a moſt lamentable manner; and he met with his reward alſo; for the duke ordered him to be whipp'd for miſbeha<g ref="char:EOLhyphen"/>viour on duty.</p>
          </div>
          <div type="poems">
-            <pb facs="tcp:028656_0097_0FDA3E04D67D9180"/>
+            <pb facs="unknown:028656_0097_0FDA3E04D67D9180"/>
             <head>Facetious Epigrams, Epitaphs, &amp;c.</head>
             <div type="epigrams">
                <head>EPIGRAMS.</head>
@@ -1020,7 +1022,7 @@ A quaker came before two judges at an aſſize in Ireland, as a witneſs, when h
                   <l>For he knew women lead men a <hi>tarnation</hi> life.</l>
                </lg>
                <lg>
-                  <pb n="111" facs="tcp:028656_0098_0FDA3E0D2020F5D8"/>
+                  <pb n="111" facs="unknown:028656_0098_0FDA3E0D2020F5D8"/>
                   <head>Upon an old Maid.</head>
                   <l>Ruth's truly handſome, ſays old Dick the wag,</l>
                   <l>Zounds, ſays a ſtripling, ſhe's a perfect hag;</l>
@@ -1066,7 +1068,7 @@ A quaker came before two judges at an aſſize in Ireland, as a witneſs, when h
                   <l>No, no, ſir, you ſha'nt die, till I am paid.</l>
                </lg>
                <lg>
-                  <pb n="112" facs="tcp:028656_0099_0FDA3E0A027DF850"/>
+                  <pb n="112" facs="unknown:028656_0099_0FDA3E0A027DF850"/>
                   <l>Jack, eating rotten cheeſe, did ſay,</l>
                   <l>Like Sampſon, I my thouſand ſlay:</l>
                   <l>I vow, quoth Roger, ſo you do,</l>
@@ -1109,7 +1111,7 @@ A quaker came before two judges at an aſſize in Ireland, as a witneſs, when h
                   <l>I'm weeping becauſe I'm afraid you won't die.</l>
                </lg>
                <lg>
-                  <pb n="113" facs="tcp:028656_0100_0FDA3DD820E2A7C8"/>
+                  <pb n="113" facs="unknown:028656_0100_0FDA3DD820E2A7C8"/>
                   <l>Let's throw all <gap reason="illegible" resp="#PDCC" extent="1 letter">
                         <desc>•</desc>
                      </gap>uckold's over, Pantus cries,</l>
@@ -1152,7 +1154,7 @@ A quaker came before two judges at an aſſize in Ireland, as a witneſs, when h
                   <l>It plays, you know, the devil.</l>
                </lg>
                <lg>
-                  <pb n="114" facs="tcp:028656_0101_0FDA3E0B9A37A3B0"/>
+                  <pb n="114" facs="unknown:028656_0101_0FDA3E0B9A37A3B0"/>
                   <l>One morn, ſaid lovely Chloe, with a laugh,</l>
                   <l>To her old man, "Here read your epitaph."</l>
                   <l>My epitaph, he! he! now I'm a bed?</l>
@@ -1195,7 +1197,7 @@ A quaker came before two judges at an aſſize in Ireland, as a witneſs, when h
                   <l>You may cenſure and backbite as much as you will.</l>
                </lg>
                <lg>
-                  <pb n="115" facs="tcp:028656_0102_0FDA3DD954B3E958"/>
+                  <pb n="115" facs="unknown:028656_0102_0FDA3DD954B3E958"/>
                   <l>Brother bucks, your glaſſes drain,</l>
                   <l>Tom, 'tis ſtrong and ſparkling red—</l>
                   <l>Never fear! t'wont reach my <hi>brain</hi>—</l>
@@ -1240,7 +1242,7 @@ A quaker came before two judges at an aſſize in Ireland, as a witneſs, when h
                      </gap>urrection riſe!</l>
                </lg>
                <lg>
-                  <pb n="116" facs="tcp:028656_0103_0FD9BB7AD74DB6A8"/>
+                  <pb n="116" facs="unknown:028656_0103_0FD9BB7AD74DB6A8"/>
                   <head>
                      <hi>Selby Church-yard,</hi> Yorkſhire.</head>
                   <l>Here lies the body of poor Frank Row,</l>
@@ -1280,7 +1282,7 @@ A quaker came before two judges at an aſſize in Ireland, as a witneſs, when h
                </lg>
             </div>
             <div type="toasts">
-               <pb facs="tcp:028656_0104_0FDA3DDE701357B0"/>
+               <pb facs="unknown:028656_0104_0FDA3DDE701357B0"/>
                <head>TOASTS and SENTIMENTS</head>
                <p>A Head to earn, and a heart to ſpend.</p>
                <p>All fortune's daughters but the eldeſt.</p>
@@ -1306,7 +1308,7 @@ A quaker came before two judges at an aſſize in Ireland, as a witneſs, when h
                <p>Short ſhoes and long corns to the enemies of America.</p>
             </div>
             <div type="conundrums">
-               <pb n="118" facs="tcp:028656_0105_0FDA3E0E91F32378"/>
+               <pb n="118" facs="unknown:028656_0105_0FDA3E0E91F32378"/>
                <head>CONUNDRUMS.</head>
                <list>
                   <item>1 WHO was the firſt that bore arms? Adam.</item>
@@ -1322,7 +1324,7 @@ A quaker came before two judges at an aſſize in Ireland, as a witneſs, when h
                   <item>10 What is it that God never ſees, kings ſeldom ſee, but you reader often ſee? An equal.</item>
                   <item>11 Why is a prime miniſter like a May-pole? Becauſe it is a high poſt.</item>
                   <item>
-                     <pb n="119" facs="tcp:028656_0106_0FDA3DE01BD0F0F0"/>
+                     <pb n="119" facs="unknown:028656_0106_0FDA3DE01BD0F0F0"/>
 12 Why is ſwearing like an old coat? Becauſe 'tis a bad habit.</item>
                   <item>13 Why is the ſecond horſe in a race like the main maſt of a ſhip? Becauſe he is next the fore-maſt.</item>
                   <item>14 Why is thy hat, reader, like a butcher's ſhop? Becauſe there is a calves head in it.</item>
@@ -1340,7 +1342,7 @@ A quaker came before two judges at an aſſize in Ireland, as a witneſs, when h
                   <item>26 Why is a bunch of keys like a head of hair? Becauſe it has locks belonging to it.</item>
                   <item>27 Why is a nobleman like a book? Becauſe he has a title</item>
                   <item>
-                     <pb n="120" facs="tcp:028656_0107_0FDA3E128747C118"/>
+                     <pb n="120" facs="unknown:028656_0107_0FDA3E128747C118"/>
 28 Why is a pretty woman like an oat cake; Becauſe ſhe is often toaſted.</item>
                   <item>29 Why is a full dreſt lady like a hogſhead; Becauſe ſhe's in a hoop.</item>
                   <item>30 Why is a woman's face like a mountebank? Becauſe it is often in a mob.</item>
@@ -1365,7 +1367,7 @@ A quaker came before two judges at an aſſize in Ireland, as a witneſs, when h
                </p>
             </div>
             <div type="songs">
-               <pb n="121" facs="tcp:028656_0108_0FDA3DE19AFE37A0"/>
+               <pb n="121" facs="unknown:028656_0108_0FDA3DE19AFE37A0"/>
                <head>SONGS.</head>
                <div type="song">
                   <head>
@@ -1401,7 +1403,7 @@ A quaker came before two judges at an aſſize in Ireland, as a witneſs, when h
                      <l>"We'll ſigh not for ſtockings nor ſhoes.</l>
                   </lg>
                   <lg>
-                     <pb n="122" facs="tcp:028656_0109_0FDA3E13D639C9F0"/>
+                     <pb n="122" facs="unknown:028656_0109_0FDA3E13D639C9F0"/>
                      <l>"Let's dance with the nymphs and the ſwains;</l>
                      <l>"Call <hi>Martha</hi> and long bearded <hi>Dick</hi>—</l>
                      <l>"W<gap reason="illegible" resp="#PDCC" extent="1 letter">
@@ -1459,7 +1461,7 @@ A quaker came before two judges at an aſſize in Ireland, as a witneſs, when h
                            <desc>•</desc>
                         </gap> in bed,</l>
                      <l>
-                        <pb n="123" facs="tcp:028656_0110_0FDA3DE426B024F0"/>
+                        <pb n="123" facs="unknown:028656_0110_0FDA3DE426B024F0"/>
 In the chimney a ruſh light, a little farthing ruſh light,</l>
                      <l>Fal, lall, lal, lal, la,</l>
                      <l>A little farthing ruſh-light.</l>
@@ -1501,7 +1503,7 @@ In the chimney a ruſh light, a little farthing ruſh light,</l>
                      <l>Half aſleep in his ſhirt then up came John,</l>
                      <l>And he puff'd at the ruſh-light,</l>
                      <l>
-                        <pb n="124" facs="tcp:028656_0111_0FDA3E16D48FD6F8"/>
+                        <pb n="124" facs="unknown:028656_0111_0FDA3E16D48FD6F8"/>
 The little farthing ruſh-light,</l>
                      <l>But neither of the family,</l>
                      <l>Could blow out the ruſh-light.</l>
@@ -1537,7 +1539,7 @@ The little farthing ruſh-light,</l>
                      <l>Tho' patriots and placemen each other abuſe,</l>
                      <l>'Tis nothing to me, I've no penſion to loſe,</l>
                      <l>
-                        <pb n="125" facs="tcp:028656_0112_0FDA3DE791644540"/>
+                        <pb n="125" facs="unknown:028656_0112_0FDA3DE791644540"/>
 If they levy new taxes, I vow and proteſt,</l>
                      <l>I will not complain while I fare like the reſt.</l>
                      <l>And if Outs becomes Inns, I'll ne'er murmur at that;</l>
@@ -1575,7 +1577,7 @@ If they levy new taxes, I vow and proteſt,</l>
                         </gap> ſports I delight in the bright queen of love,</l>
                      <l>With myrtles my brows ſhall adorn,</l>
                      <l>
-                        <pb n="126" facs="tcp:028656_0113_0FDA3E18AD684868"/>
+                        <pb n="126" facs="unknown:028656_0113_0FDA3E18AD684868"/>
 While Pan breaks his charter, and ſkulks in the grove,</l>
                      <l>Excell'd by the ſound of the horn</l>
                      <l>The dogs are uncoupl'd, and ſweet is the cry,</l>
@@ -1610,7 +1612,7 @@ While Pan breaks his charter, and ſkulks in the grove,</l>
                      <l>I'd crowns reſign to call her mine,</l>
                      <l>Sweet laſs of Richmond hill,</l>
                      <l>
-                        <pb n="127" facs="tcp:028656_0114_0FDA3DE930E3BB58"/>
+                        <pb n="127" facs="unknown:028656_0114_0FDA3DE930E3BB58"/>
 Ye zephyrs gay that fan the air,</l>
                      <l>And wanton through the grove,</l>
                      <l>Oh, whiſper to my charming fair</l>
@@ -1640,7 +1642,7 @@ Ye zephyrs gay that fan the air,</l>
                      <l>Bow, wow, wow.</l>
                   </lg>
                   <lg>
-                     <pb n="128" facs="tcp:028656_0115_0FDA3E19E27FBDC8"/>
+                     <pb n="128" facs="unknown:028656_0115_0FDA3E19E27FBDC8"/>
                      <l>A Cuckold is a common Dog, that many a wife can tell you;</l>
                      <l>A Glutton is a greedy Dog, who loves you for his belly;</l>
                      <l>A Soldier is a noble Dog, in every rank and ſtation;</l>
@@ -1666,7 +1668,7 @@ Ye zephyrs gay that fan the air,</l>
                      <l>A Bruiſer is a fighting Dog, makes men his blows to feel, ſirs;</l>
                      <l>A Doctor's a Dog, who'd kill his beſt friends for a fee, ſirs;</l>
                      <l>
-                        <pb n="129" facs="tcp:028656_0116_0FDA3DEC67670558"/>
+                        <pb n="129" facs="unknown:028656_0116_0FDA3DEC67670558"/>
 A 'Pothecary's a dirty Dog, who'd clyſter all de<g ref="char:EOLhyphen"/>grees; ſirs.</l>
                      <l>Bow, wow, wow.</l>
                   </lg>
@@ -1703,7 +1705,7 @@ A 'Pothecary's a dirty Dog, who'd clyſter all de<g ref="char:EOLhyphen"/>grees;
                      <l>Whilſt out the boat is hoiſting.</l>
                   </lg>
                   <lg>
-                     <pb n="130" facs="tcp:028656_0117_0FDA3E1CE1BDD910"/>
+                     <pb n="130" facs="unknown:028656_0117_0FDA3E1CE1BDD910"/>
                      <l>With cheerful hearts the ſhore we reach,</l>
                      <l>Our friends delighted greet us,</l>
                      <l>And tripping lightly o'er the beach,</l>
@@ -1745,7 +1747,7 @@ A 'Pothecary's a dirty Dog, who'd clyſter all de<g ref="char:EOLhyphen"/>grees;
                      <l>And time came ſmiling round.</l>
                   </lg>
                   <lg>
-                     <pb n="131" facs="tcp:028656_0118_0FDA3DEDAC0F8698"/>
+                     <pb n="131" facs="unknown:028656_0118_0FDA3DEDAC0F8698"/>
                      <l>Young Jockey met me here and there,</l>
                      <l>With a kiſs, and ſong, and ſmile;</l>
                      <l>At mill or meadow, wake and fair,</l>
@@ -1794,7 +1796,7 @@ A 'Pothecary's a dirty Dog, who'd clyſter all de<g ref="char:EOLhyphen"/>grees;
                      <l>Lord bleſs me! how could I refrain,</l>
                      <l>'Twere ſinful too to lie;</l>
                      <l>
-                        <pb n="132" facs="tcp:028656_0119_0FDA3DF2A25FE958"/>
+                        <pb n="132" facs="unknown:028656_0119_0FDA3DF2A25FE958"/>
 So, when he aſk'd me that again,</l>
                      <l>
                         <hi>'Twas no indeed, not I.</hi>
